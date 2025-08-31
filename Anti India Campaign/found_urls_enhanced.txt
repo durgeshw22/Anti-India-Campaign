@@ -1,0 +1,976 @@
+# Enhanced Anti-India Campaign Detection Results
+# Generated: 2025-08-28T20:16:19.457573
+# Total Dorks: 60
+
+
+# =======================================================
+# Dork 1: "Kashmir"
+# =======================================================
+https://www.indiatoday.in/india/story/jammu-kashmir-flash-floods-live-updates-jk-rain-alert-landslides-vaishno-devi-katra-2777467-2025-08-27
+/search?num=22
+https://en.wikipedia.org/wiki/Kashmir
+https://www.britannica.com/place/Kashmir-region-Indian-subcontinent
+https://www.ndtv.com/india-news/jammu-and-kashmir-flash-floods-live-updates-deaths-on-vaishno-devi-route-rain-landslides-north-india-9165718
+https://en.wikipedia.org/wiki/Kashmir_conflict
+https://www.kashmiruniversity.net/
+https://www.bbc.com/news/world-south-asia-11693674
+https://www.incredibleindia.gov.in/en/jammu-and-kashmir
+https://www.jkgad.nic.in/
+https://www.dw.com/en/india-opens-dams-amid-flash-floods-in-jammu-and-kashmir/a-73780328
+https://www.theguardian.com/world/kashmir
+https://standwithkashmir.org/
+https://www.newsonair.gov.in/flood-situation-deteriorates-in-jammu-and-kashmir-and-punjab-mobile-and-internet-services-disrupted-in-kashmir-valley/
+https://srinagar.nic.in/about-district/
+https://knowindia.india.gov.in/states-uts/jammu-and-kashmir.php
+http://www.cukashmir.ac.in/
+https://jkhighcourt.nic.in/
+https://divcomkashmir.jk.gov.in/
+https://en.wikivoyage.org/wiki/Kashmir
+
+# =======================================================
+# Dork 2: "Khalistan"
+# =======================================================
+https://en.wikipedia.org/wiki/Khalistan_movement
+https://www.theweek.in/news/india/2025/08/28/who-is-dinesh-patnaik-india-s-new-envoy-to-canada-familiar-with-handling-khalistan-challenge.html
+https://www.britannica.com/topic/Khalistan
+https://www.reuters.com/world/what-is-khalistan-movement-why-is-it-fuelling-india-canada-rift-2023-09-19/
+https://www.mha.gov.in/en/commoncontent/list-of-organisations-designated-%E2%80%98terrorist-organizations%E2%80%99-under-section-35-of
+https://www.aljazeera.com/news/2023/9/27/what-is-the-khalistan-movement-how-is-it-linked-to-india-canada-tensions
+https://www.aljazeera.com/news/2023/9/27/what-is-the-khalistan-movement-how-is-it-linked-to-india-canada-tensions
+https://www.jstor.org/stable/41421658
+https://www.youtube.com/watch?v=tXyDocAG2ro
+https://www.idsa.in/publisher/comments/the-khalistan-movement-in-canada-a-political-consensus
+https://www.hinduamerican.org/khalistan/
+https://www.bbc.com/news/world-asia-india-66852291
+https://en.wikipedia.org/wiki/Khalistan_Commando_Force
+https://www.mea.gov.in/press-releases.htm?dtl/37789/India_strongly_protests_Khalistan_slogans_at_a_public_event_attended_by_Canadian_leaders
+https://www.jstor.org/stable/48745126
+https://theconversation.com/the-fraught-history-of-india-and-the-khalistan-movement-213956
+https://www.cnn.com/2023/10/06/india/india-canada-sikh-khalistan-analysis-intl-hnk
+https://indiankanoon.org/search/?formInput=khalistan
+https://www.youtube.com/watch?v=1JoG06nAGRE
+https://frontline.thehindu.com/news/controversy-is-the-idea-of-khalistan-sikh-homeland-still-alive-india-canada-diplomatic-relations/article67352240.ece
+
+# =======================================================
+# Dork 3: "Balochistan"
+# =======================================================
+/search?num=22
+https://en.wikipedia.org/wiki/Balochistan,_Pakistan
+https://www.timesnownews.com/world/asia/balochistan-disappearances-crackdowns-and-a-crisis-pakistan-helped-create-article-152538253
+https://en.wikipedia.org/wiki/Balochistan
+https://balochistan.gov.pk/
+https://www.britannica.com/place/Balochistan
+https://www.newsonair.gov.in/balochistan-marks-78th-independence-day-amid-ongoing-protest-of-pakistani-rule/
+https://www.youtube.com/watch?v=2g0usE__8i8
+https://x.com/himantabiswa/status/1924527291494998182
+https://www.thehindu.com/news/international/us-designates-pakistani-baloch-separatists-as-a-foreign-terrorist-group/article69921741.ece
+https://www.instagram.com/reel/DN5dlRViCDd/
+/search?num=22
+https://zeenews.india.com/world/not-one-or-two-pakistan-set-to-split-into-12-parts-celebrations-erupt-in-balochistan-2951648.html
+https://www.instagram.com/reel/DN5dlRViCDd/
+https://thediplomat.com/2025/08/balochistans-mobile-internet-shutdown/
+https://www.idsa.in/topics/balochistan
+https://www.gettyimages.in/photos/balochistan-pakistan
+https://www.buitms.edu.pk/
+https://www.bbc.com/news/world-asia-68035478
+https://www.ebsco.com/research-starters/political-science/balochistan-pakistan
+
+# =======================================================
+# Dork 4: "Arunachal Pradesh"
+# =======================================================
+https://en.wikipedia.org/wiki/Arunachal_Pradesh
+https://arunachalpradesh.gov.in/
+https://www.theweek.in/wire-updates/national/2025/08/28/ces19-ar-governor-youth.html
+https://arunachaltourism.com/
+https://appsc.gov.in/
+https://www.britannica.com/place/Arunachal-Pradesh
+https://www.google.com/search?num=22
+https://www.incredibleindia.gov.in/en/arunachal-pradesh
+https://arla.neva.gov.in/
+https://arunachal.nic.in/
+https://arunachalipr.gov.in/index.php/about-state/
+https://www.apssb.nic.in/
+https://www.eilp.arunachal.gov.in/
+https://www.lonelyplanet.com/destinations/india/northeast-states/arunachal-pradesh
+https://www.aruntax.nic.in/
+https://arunpol.nic.in/
+https://mdoner.gov.in/about-north-east/arunachal-pradesh
+https://www.nitap.ac.in/
+https://apdhte.nic.in/
+https://ardistricts.nic.in/
+
+# =======================================================
+# Dork 5: "Indian occupation of Kashmir"
+# =======================================================
+https://contendingmodernities.nd.edu/theorizing-modernities/kashmir-dismantling-state/
+https://www.dailysabah.com/opinion/op-ed/6-years-under-siege-kashmirs-enduring-struggle-for-justice
+https://commons.com.ua/en/kashmir-indiya-intervyu-z-istorikineyu-gafsoyu-kandzhval/
+https://www.tandfonline.com/doi/full/10.1080/2201473X.2024.2426111
+https://journals.umt.edu.pk/index.php/jppp/article/view/4314/2175
+https://contendingmodernities.nd.edu/theorizing-modernities/politics-life-colonial-govt/
+https://www.ips.org.pk/indian-occupation-of-kashmir-is-apartheid-ips-forum/
+https://www.kashmiraction.org/october-27-the-black-day-of-indian-occupation-of-kashmir/
+https://sites.exeter.ac.uk/humanrightsanddemocracyforumblog/2025/03/07/the-war-on-kashmiri-womens-bodies-five-years-after-article-370-indian-constitution-a-tribute-to-the-kashmiri-victims-of-gendered-violence-and-occupation-by-zainab-zafar/
+https://www.beyondintractability.org/casestudy/navlakha-kashmir
+https://azadessa.substack.com/p/india-hate-towards-muslims-pakistan-kashmir-?utm_source=substack&utm_medium=email&utm_content=share&action=share
+https://migrationletters.com/index.php/ml/article/download/11127/7446/27227
+https://www.dailysabah.com/opinion/op-ed/kashmir-betrayals-and-broken-promises
+https://www.quora.com/Why-do-Indians-always-call-Kashmir-an-integral-part-of-India
+https://southasiajournal.net/kashmir-a-tale-of-occupation-resistance-and-hope/
+https://borgenproject.org/about-poverty-in-kashmir/
+https://yaqeeninstitute.org/read/paper/the-forgotten-muslims-how-kashmiris-breathe-islam-under-occupation
+https://repository.uel.ac.uk/download/d64b8433c090e392d7494458a7ae341f600096827e2c139a255ed409688f54b5/190625/Partition-and-Legacies-of-Violence-Haq.pdf
+https://scholarhub.ui.ac.id/global/vol21/iss1/2/
+https://utsynergyjournal.org/2025/04/07/colonizing-kashmir-state-building-under-indian-occupation/
+
+# =======================================================
+# Dork 6: "settler colonialism in Kashmir"
+# =======================================================
+https://www.sup.org/books/asian-studies/colonizing-kashmir/excerpt/introduction
+https://onlinelibrary.wiley.com/doi/10.1111/dech.12809
+https://www.culanth.org/fieldsights/allochronization-under-the-emergent-settler-colonialism-in-kashmir
+https://pure.eur.nl/files/124707294/The_Distinct_Dispossessions_of_Indian_Settler_Colonialism_in_Kashmir.pdf
+https://www.tandfonline.com/doi/abs/10.1080/01436597.2021.1984877
+https://hlrn.org/activitydetails.php?title=Kashmir:-Prolonged-Settler-Colonialism&id=pnBpaQ==
+https://apjihl.org/article/dominating-demography-altering-destiny-indias-settler-colonialism-in-kashmir/
+https://www.culanth.org/fieldsights/the-iterative-temporal-dynamic-of-settler-colonialism-in-kashmir
+https://standwithkashmir.medium.com/indias-10-steps-to-settler-colonialism-in-kashmir-62b535c2fa73
+https://journals.sagepub.com/doi/abs/10.1177/14687976251338381
+/search?num=22
+https://kashmirawareness.org/fortnightly-feature-settler-colonialism-on-steroids-as-india-and-israel-team-up-in-kashmir/
+https://journals.sagepub.com/doi/abs/10.1177/14687976251338381
+https://www.manchesterhive.com/downloadpdf/9781526157751/9781526157751.00018.pdf
+https://onlinelibrary.wiley.com/doi/abs/10.1111/dech.12809
+https://wrap.warwick.ac.uk/id/eprint/189383/7/WRAP-forms-practices-Indian-settler-colonial-sovereignty-Kashmir-Osuri-2022.pdf
+https://ideas.repec.org/a/taf/ctwqxx/v42y2021i12p3012-3029.html
+https://www.kiir.org.pk/blogs/indias-settler-colonialism-in-kashmir-7452
+https://standwithkashmir.org/manoj-sinha-lieutenant-governor-of-indian-settler-colonialism-in-kashmir/
+https://apjihl.org/wp-content/uploads/2024/06/APJIHL_Dominating_Demography_Altering_Destiny_Indias.pdf
+
+# =======================================================
+# Dork 7: "Kashmiri freedom struggle"
+# =======================================================
+https://www.kiir.org.pk/blogs/kashmir-solidarity-day-tribute-to-freedom-struggle-of-kashmiris-8055
+https://www.scienceopen.com/hosted-document?doi=10.13169/polipers.16.2.0041
+https://www.aa.com.tr/en/asia-pacific/kashmiri-freedom-struggle-great-example-of-unyielding-courage-pakistani-envoy/2645852
+https://ijrrssonline.in/AbstractView.aspx?PID=2024-12-1-8
+https://rsilpak.org/2023/contested-solidarity-azad-kashmir-pakistan-and-the-kashmiri-freedom-struggle/
+https://www.linkedin.com/pulse/kashmir-issue-how-indigenous-freedom-struggle-became-regional-khan-ve82f
+https://www.jstor.org/stable/10.13169/polipers.16.2.0041
+https://southasiatimes.org/palestinian-and-kashmiri-freedom-struggles/
+https://www.quora.com/Why-do-Muslims-talk-about-Kashmiri-freedom-struggle-even-though-Kashmir-was-freed-in-Nov-1947-after-the-Maharaja-of-Jammu-and-Kashmir-signed-accession-to-India-and-Indian-military-kicked-out-the-Pakistani-invaders
+https://kashmirawareness.org/the-man-behind-the-armor-syed-ali-shah-geelani-the-moving-spirit-of-the-kashmiri-freedom-struggle/
+https://www.researchgate.net/publication/383165798_Role_and_Influence_of_Communists_in_the_Kashmiri_Freedom_struggle_1937-1947
+https://standwithkashmir.org/the-case-for-yasin-malik/
+https://passblue.com/2023/08/03/whats-happening-in-kashmir-is-not-normal/
+https://againstthecurrent.org/atc230/kashmir-today-part-1/
+https://ijrrssonline.in/HTML_Papers/International%20Journal%20of%20Reviews%20and%20Research%20in%20Social%20Sciences__PID__2024-12-1-8.html
+https://issi.org.pk/wp-content/uploads/2022/11/PD_Report_Oct_27_2022.pdf
+https://kmsnews.org/kms/2025/08/10/sheikh-abdul-azizs-martyrdom-a-beacon-for-kashmiri-freedom-struggle-aphc.html
+https://historyofindiaandduniyaworld.quora.com/Why-do-Muslims-talk-about-Kashmiri-freedom-struggle-even-though-Kashmir-was-freed-in-Nov-1947-after-the-Maharaja-of-J
+https://harvardlawreview.org/print/vol-134/from-domicile-to-dominion-indias-settler-colonial-agenda-in-kashmir/
+https://www.app.com.pk/domestic/ajk-remembers-illustrious-kashmiri-freedom-struggle-icon-shaheed-maqbool-butt-on-his-39th-martyrdom-anniversary/
+
+# =======================================================
+# Dork 8: "war crimes in Kashmir"
+# =======================================================
+https://www.kljp.org/articles/indias-war-crimes-in-kashmir-violence-dissent-and-the-war-on-terror
+https://www.tandfonline.com/doi/abs/10.1080/13602004.2023.2262846
+https://books.google.com/books/about/India_s_War_Crimes_in_Kashmir.html?id=piIO0AEACAAJ
+https://vc.bridgew.edu/cgi/viewcontent.cgi?article=2846&context=jiws
+https://www.aljazeera.com/news/2022/1/19/uk-asked-to-probe-indian-officials-over-kashmir-war-crimes
+https://cscr.pk/explore/themes/social-issues/indias-war-crimes-in-kashmir/
+https://www.facebook.com/timwattsmp/posts/the-terror-attack-on-innocent-civilians-in-jammu-and-kashmir-overnight-was-shock/1233444354810052/
+https://www.periodicos.capes.gov.br/index.php/acervo/buscador.html?task=detalhes&source=all&id=W4387052959
+https://www.aa.com.tr/en/europe/uk-law-firm-seeks-arrest-of-top-indian-officials-for-kashmir-war-crimes/2480397
+https://jahan-e-tahqeeq.com/index.php/jahan-e-tahqeeq/article/download/1298/1185/
+https://timesofindia.indiatimes.com/india/uk-company-report-alleges-war-crimes-in-jk/articleshow/89006911.cms
+https://lfkashmir.com/tag/war-crimes-in-kashmir/
+https://www.facebook.com/RepublicWorld/posts/the-indian-army-on-sunday-confirmed-that-over-100-terrorists-were-killed-in-prec/755000133855982/
+https://www.islam21c.com/news/indian-government-officials-face-investigation-for-their-war-crimes-in-kashmir/
+https://standwithkashmir.org/who-arms-indias-occupation-in-kashmir/
+https://trt.global/world/article/12771507
+https://cdn.prod.website-files.com/6031a13f23a42e1120a8c37c/62a7f5ee000046546b23ef16_India%27s_War_Crimes_REPORT_Terror.pdf
+https://www.orfonline.org/expert-speak/indias-two-front-information-war
+http://www.ips.org.pk/documentation-of-indian-war-crimes-in-kashmir-critical/
+https://merip.org/2023/09/india-israel-and-the-coordination-of-control-2/
+
+# =======================================================
+# Dork 9: "Indian Army atrocities"
+# =======================================================
+https://en.wikipedia.org/wiki/Indian_Army_atrocities_in_Northeast_India
+https://www.reddit.com/r/Northeastindia/comments/1kn5v5u/how_true_are_reports_of_indian_army_atrocities_in/
+https://www.facebook.com/PTVWorld/videos/indian-armys-atrocities-continue-in-indian-illegaly-occupied-kashmir-after-pahal/655947300683423/
+https://www.instagram.com/reel/DJKQZI1vVkU/
+https://www.reddit.com/r/india/comments/rfzgxj/indian_army_atrocities_in_kashmir/
+https://www.soundvision.com/tags/indian-army-atrocities-in-kashmir
+https://www.dawn.com/news/1735530/rallies-condemn-indian-armys-atrocities-in-kashmir
+https://www.altnews.in/old-video-from-syria-viral-as-indian-armys-atrocities-on-kashmiri-women/
+https://m.facebook.com/logical.indian/photos/a-disturbing-photograph-showing-several-bodies-lying-on-the-ground-is-being-circ/2954446741351692/
+https://thelogicalindian.com/bodies-ground-indian-army-muslims-kashmir-21743/
+https://nagalandtribune.in/nma-condemns-sc-verdict-on-oting-massacre-calls-for-repeal-of-afspa/
+https://www.app.com.pk/national/world-partners-oppression-against-kashmiris-amid-silence-over-indian-armys-atrocities-sherry/
+https://www.facebook.com/NagaByBlood/posts/public-rally-against-indian-army-atrocities-held-longding-19-may-2020-tmt-in-pro/2901923999843611/?locale=bg_BG
+https://www.instagram.com/p/DAQTkbMOKJ8/
+https://www.reddit.com/r/unitedstatesofindia/comments/1ao3zs4/remembering_the_victims_of_kakopathar_massacre/
+https://radioislam.org.za/a/in-kashmir-indian-army-atrocities-continue-parvez/
+https://www.dawn.com/news/1039357
+https://www.amazon.in/Hyderabad-1948-Syed-Ali-Hashmi/dp/8172210795
+https://www.app.com.pk/national/eu-pak-friendship-federation-urges-intl-media-to-expose-indian-atrocities-in-iiojk/
+https://www.linkedin.com/posts/nagaraja-mr-119a98237_indian-army-atrocities-accountability-activity-7058955372522323968-63Vy
+
+# =======================================================
+# Dork 10: "Sikh referendum"
+# =======================================================
+https://referendum2020.org/
+https://en.wikipedia.org/wiki/Khalistan_Referendum
+https://en.wikipedia.org/wiki/Sikhs_for_Justice
+https://www.mha.gov.in/sites/default/files/2022-10/Notificationdated_08012020%5B1%5D.pdf
+https://www.youtube.com/watch?v=E2J01fDbdxA
+https://www.shankariasparliament.com/current-affairs/sikhs-for-justice-nia-case
+https://sikhsforjustice.org/downloads
+https://globalindiannetwork.com/khalistan-referendum-2024/
+https://moderndiplomacy.eu/2022/09/19/khalistan-referendum/
+https://www.bbc.com/news/world-asia-india-67725254
+https://www.ndtv.com/topic/2020-sikh-referendum
+https://www.theglobeandmail.com/canada/article-khalistan-sikh-india-canada/
+https://tribune.com.pk/story/2379266/over-200000-sikhs-take-part-in-khalistan-referendums-held-in-four-countries
+https://irb-cisr.gc.ca/en/country-information/rir/Pages/index.aspx?doc=457975
+https://www.thehindu.com/news/national/other-states/referendum-bid-to-disturb-punjabs-peace/article24627677.ece
+https://www.newindianexpress.com/nation/2019/Nov/19/google-takes-down-sfj-mobile-app-2020-sikh-referendum-from-its-play-store-2063996.html
+https://caravanmagazine.in/politics/why-did-the-mha-designate-gurpatwant-pannun-khalistani-little-following-a-terrorist
+https://www.aa.com.tr/en/asia-pacific/india-confiscates-properties-of-2-sikh-rebels/1967063
+https://www.ndtv.com/india-news/google-removes-2020-sikh-referendum-app-promoting-secession-punjab-government-2135210
+https://www.youtube.com/watch?v=9VhTSBQYuEc
+
+# =======================================================
+# Dork 11: "Free Nagalim"
+# =======================================================
+https://hindupost.in/politics/free-nagalim-for-christ-is-our-portion-of-land-from-god-nscn-im-leader-muivah-on-naga-independence-day/
+https://nscn.livejournal.com/357085.html
+https://www.facebook.com/photo.php?fbid=1014851017182495&id=100059728196140&set=a.571595251508076
+https://morungexpress.com/the-heart-of-the-matter-is-that-nagas-are-a-sovereign-people
+https://www.angelfire.com/nm/nagalim/people_origin.html
+https://www.thesangaiexpress.com/Encyc/2024/5/11/Newmai-NewsNetworkDIMAPUR-May-10-NSCN-IM-has-made-a-fervent-appeal-to-all-Churches-to-pray-for-the-Indo-.html
+http://www.nagalim.nl/news/archive-062011.html
+https://www.nation.com.pk/12-Dec-2017/nagalim-and-naxalism
+https://m.facebook.com/story.php?story_fbid=1104378931563036&id=100059728196140
+https://www.facebook.com/100063619484179/videos/free-nagalimthe-anticipation-for-free-nagalim-echoes-every-mountaina-cover-song-/752047663638140/
+https://e-pao.net/epSubPageExtractor.asp?src=news_section.opinions.Opinion_on_Manipur_Integrity_Issue.Naga_National_Issue_An_Approach_Out_Of_The_Box_I
+https://ukhrultimes.com/nscn-im-demands-framework-agreement-adherence-warns-delays-could-harm-indo-naga-peace-talks/
+https://fable.co/book/nagalim-by-suvo-moitro-9781469171296
+http://www.nagalim.nl/news/archive-022007.html
+https://www.amazon.in/Nagalim-Saga-Sacrifice-Suvo-Moitro-ebook/dp/B079K4Z2TW
+https://nagalandjournal.wordpress.com/2013/04/26/muivahs-message-to-enpo/
+https://www.e-pao.net/epSubPageExtractor.asp?src=news_section.Muivah_Visit_201005.Muivah_Articles_201006.NSCM_convey_gratitude_to_Naga_People
+https://morungexpress.com/what-delays-achievement-of-nagalim
+https://ukhrultimes.com/74th-naga-plebiscite-day-held-in-ukhrul/
+https://mokokchungtimes.com/nscn-im-reiterates-commitment-to-naga-self-determination-and-framework-agreement-full-text/
+
+# =======================================================
+# Dork 12: "Line of Actual Control"
+# =======================================================
+https://en.wikipedia.org/wiki/Line_of_Actual_Control
+https://visionias.in/current-affairs/monthly-magazine/2024-11-14/international-relations/india-china-agreement-on-line-of-actual-control-lac
+https://indianexpress.com/article/explained/line-of-actual-control-where-it-is-located-and-where-india-and-china-differ-6436436/
+https://simple.wikipedia.org/wiki/Line_of_Actual_Control
+https://www.manoramayearbook.in/current-affairs/india/2024/10/03/line-of-actual-control-lac-explained.html
+https://en.wikipedia.org/wiki/Line_of_Actual_Control
+https://www.bbc.com/news/world-asia-53062484
+https://www.studyiq.com/articles/line-of-actual-control-lac/?srsltid=AfmBOoq6MVc9ZLzfc4LWw-BT0jatPWMll3Hdb7xzENVS1U-Igp0vVx-T
+https://www.google.com/search?num=22
+https://vajiramandravi.com/current-affairs/line-of-actual-control-lac/
+https://www.rusi.org/explore-our-research/publications/commentary/india-china-clashes-escalation-along-line-actual-control
+https://www.mha.gov.in/sites/default/files/INDO%20CHINA_05052017.pdf
+https://www.sriramsias.com/article/explain-where-is-line-of-actual-control-located-and-why-do-india-and-china-differ-on-the-border-200605164043/
+https://www.nytimes.com/2020/06/16/world/asia/india-china-border.html
+https://www.thehindu.com/news/international/line-of-actual-control-india-china-the-line-of-actual-contest/article31822311.ece
+https://testbook.com/question-answer/the-line-of-actual-control-lac-separates--60b8d924a1a58cbc9c4be682
+https://www.youtube.com/watch?v=qcyz9eZy3gI
+https://www.mea.gov.in/Portal/LegalTreatiesDoc/CH96B1124.pdf
+https://www.ndtv.com/topic/line-of-actual-control
+https://edition.cnn.com/interactive/2020/06/asia/india-china-border-explainer-scli-intl-hnk/
+
+# =======================================================
+# Dork 13: "कश्मीर"
+# =======================================================
+https://www.livehindustan.com/ncr/new-delhi/story-jammu-and-kashmir-assembly-meetings-postponed-due-to-floods-and-landslides-201756379069800.html
+http://t2.gstatic.com/licensed-image?q=tbn:ANd9GcRbWgdOi-RYnypO2Ajk430t4aI4F6D-MxusDyvMDwYxw3tNILv12WNnC6YnIZvRGFnm
+/search?num=22
+https://hi.wikipedia.org/wiki/%E0%A4%95%E0%A4%B6%E0%A5%8D%E0%A4%AE%E0%A5%80%E0%A4%B0
+https://www.youtube.com/watch?v=WdTZuWQm8No
+https://www.youtube.com/watch?v=1m0dHx30Tc0
+https://hi.wikipedia.org/wiki/%E0%A4%9C%E0%A4%AE%E0%A5%8D%E0%A4%AE%E0%A5%82_%E0%A4%94%E0%A4%B0_%E0%A4%95%E0%A4%B6%E0%A5%8D%E0%A4%AE%E0%A5%80%E0%A4%B0_(%E0%A4%95%E0%A5%87%E0%A4%82%E0%A4%A6%E0%A5%8D%E0%A4%B0_%E0%A4%B6%E0%A4%BE%E0%A4%B8%E0%A4%BF%E0%A4%A4_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A6%E0%A5%87%E0%A4%B6)
+https://www.amarujala.com/jammu-and-kashmir
+https://services.india.gov.in/service/state_services?sd_id=1420&ln=hi
+https://navbharattimes.indiatimes.com/world/pakistan/ishaq-dar-says-india-mulling-over-restoring-jammu-statehood-and-retaining-kashmir-as-union-territory/articleshow/123116447.cms
+https://www.aajtak.in/topic/jammu-and-kashmir
+https://www.jagran.com/jammu-and-kashmir
+https://www.youtube.com/watch?v=TUIVdVREBrA
+https://nayidhara.in/gadya-dhara/kashmir-ki-sair/
+https://cag.gov.in/ag/jammu-kashmir/hi
+https://hindi.eci.gov.in/files/category/75-%E0%A4%9C%E0%A4%AE%E0%A5%8D%E0%A4%AE%E0%A5%82-%E0%A4%94%E0%A4%B0-%E0%A4%95%E0%A4%B6%E0%A5%8D%E0%A4%AE%E0%A5%80%E0%A4%B0/
+https://www.xn--i1bj3fqcyde.xn--11b7cb3a6a.xn--h2brj9c/%E0%A4%9C%E0%A4%AE%E0%A5%8D%E0%A4%AE%E0%A5%82-%E0%A4%94%E0%A4%B0-%E0%A4%95%E0%A4%B6%E0%A5%8D%E0%A4%AE%E0%A5%80%E0%A4%B0-%E0%A4%95%E0%A5%87-%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%9F%E0%A4%A8-%E0%A4%B5%E0%A4%BF%E0%A4%AD%E0%A4%BE%E0%A4%97-%E0%A4%95%E0%A5%80-%E0%A4%B5%E0%A5%87%E0%A4%AC%E0%A4%B8%E0%A4%BE%E0%A4%87%E0%A4%9F
+https://www.amarujala.com/jammu/lakes-formed-by-glaciers-can-become-a-problem-in-jammu-and-kashmir-2025-08-12
+https://www.youtube.com/watch?v=LQULr1_9roA
+https://navbharattimes.indiatimes.com/state/jammu-and-kashmir/articlelist/21648462.cms
+
+# =======================================================
+# Dork 14: "खालिस्तान"
+# =======================================================
+https://hi.wikipedia.org/wiki/%E0%A4%96%E0%A4%BC%E0%A4%BE%E0%A4%B2%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A4%BE%E0%A4%A8_%E0%A4%86%E0%A4%82%E0%A4%A6%E0%A5%8B%E0%A4%B2%E0%A4%A8
+https://www.aljazeera.com/news/2023/9/27/what-is-the-khalistan-movement-how-is-it-linked-to-india-canada-tensions
+https://www.youtube.com/watch?v=tXyDocAG2ro
+https://www.youtube.com/watch?v=3q2QNcyI7vQ
+https://www.youtube.com/watch?v=ifk1A4LpdLw
+https://www.livehindustan.com/national/story-what-is-khalistan-movement-why-75-year-old-strong-relationship-between-india-canada-is-burning-8731057.html
+https://www.bbc.com/hindi/articles/crg14rj8y5zo
+https://hi.wikipedia.org/wiki/%E0%A4%96%E0%A4%BE%E0%A4%B2%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A4%BE%E0%A4%A8_%E0%A4%9F%E0%A4%BE%E0%A4%87%E0%A4%97%E0%A4%B0_%E0%A4%AB%E0%A5%8B%E0%A4%B0%E0%A5%8D%E0%A4%B8
+https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/khalistan-issue
+https://www.youtube.com/watch?v=avSzBeovf7A
+https://www.bbc.com/hindi/india-65055019
+https://www.orfonline.org/hindi/expert-speak/-decoding-khalistans-playbook-in-the-west-anti-india-lobbies
+https://www.drishtiias.com/hindi/daily-updates/daily-news-analysis/the-khalistan-shadow-on-india-canada-ties
+https://www.youtube.com/watch?v=vaa69rdqpM0
+https://www.aajtak.in/explained/story/india-canada-justin-trudeau-modi-government-hardeep-singh-nijjar-khalistan-history-movement-ntc-pryd-1783943-2023-09-21
+https://www.youtube.com/watch?v=hOZuA1YOpmc
+https://testbook.com/hi/ias-preparation/khalistan-movement-upsc-notes
+https://www.abplive.com/news/world/canada-india-relations-how-justin-trudeau-country-become-center-for-khalistan-movement-know-full-story-2804720
+https://hindi.news18.com/news/nation/khalistan-embassy-in-surrey-canada-gurudwara-hardeep-singh-nijjar-open-provocation-for-india-9490624.html
+https://www.usthadian.com/hi/gk/%E0%A4%96%E0%A4%BE%E0%A4%B2%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A4%BE%E0%A4%A8/
+
+# =======================================================
+# Dork 15: "भारतीय सेना"
+# =======================================================
+/search?num=22
+https://hi.wikipedia.org/wiki/%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A5%80%E0%A4%AF_%E0%A4%A5%E0%A4%B2%E0%A4%B8%E0%A5%87%E0%A4%A8%E0%A4%BE
+https://www.instagram.com/reel/DMsDVHuuS94/?hl=en
+https://www.xn--i1bj3fqcyde.xn--11b7cb3a6a.xn--h2brj9c/%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A5%80%E0%A4%AF-%E0%A4%B8%E0%A5%87%E0%A4%A8%E0%A4%BE-%E0%A4%95%E0%A5%80-%E0%A4%B5%E0%A5%87%E0%A4%AC%E0%A4%B8%E0%A4%BE%E0%A4%87%E0%A4%9F-%E0%A4%A6%E0%A5%87%E0%A4%96%E0%A5%87%E0%A4%82
+https://www.jagran.com/punjab/kapurthala-punjab-flood-indian-army-rescues-flood-victims-in-kapurthala-disaster-relief-24028306.html
+https://hi.wikipedia.org/wiki/%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A5%80%E0%A4%AF_%E0%A4%B8%E0%A4%B6%E0%A4%B8%E0%A5%8D%E2%80%8D%E0%A4%A4%E0%A5%8D%E0%A4%B0_%E0%A4%B8%E0%A5%87%E0%A4%A8%E0%A4%BE%E0%A4%8F%E0%A4%81
+https://knowindia.india.gov.in/hindi/my-india-my-pride/indian-armed-forces.php
+https://www.youtube.com/watch?v=rloDho_Gz50
+https://mod.gov.in/dod/hi/act-and-rules/indian-army-act
+https://www.presentations.gov.in/hi/logos/%E0%A4%87%E0%A4%82%E0%A4%A1%E0%A4%BF%E0%A4%AF%E0%A4%BE-%E0%A4%86%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A5%80/
+https://www.instagram.com/reel/DN5PFpFiU-H/
+https://www.youtube.com/watch?v=hzP2UTGQgIc
+https://www.instagram.com/reel/DN5Kpv-kjI9/
+https://www.facebook.com/HanumanBeniwalOfficial/posts/%E0%A4%B9%E0%A4%AE%E0%A5%87%E0%A4%82-%E0%A4%B9%E0%A4%AE%E0%A4%BE%E0%A4%B0%E0%A5%80-%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A5%80%E0%A4%AF-%E0%A4%B8%E0%A5%87%E0%A4%A8%E0%A4%BE-%E0%A4%AA%E0%A4%B0-%E0%A4%97%E0%A4%B0%E0%A5%8D%E0%A4%B5-%E0%A4%B9%E0%A5%88-%E0%A4%9C%E0%A4%AF-%E0%A4%B9%E0%A4%BF%E0%A4%82%E0%A4%A6/1262163345275101/
+https://www.youtube.com/watch?v=dVVu1g-tHYs
+https://www.jagranjosh.com/general-knowledge/commands-and-structure-of-indian-army-1719227564-2
+https://education.vikaspedia.in/viewcontent/education/93893e92e93e92894d92f-91c94d91e93e928/93094b91a915-91c93e92891593e93093f92f93e902/%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A5%80%E0%A4%AF-%E0%A4%86%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A5%80-%E0%A4%A1%E0%A5%87-%E0%A4%B5%E0%A4%BF%E0%A4%B6%E0%A5%87%E0%A4%B7-:-%E0%A4%AA%E0%A4%A2%E0%A4%BC%E0%A5%87%E0%A4%82-%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A5%80%E0%A4%AF-%E0%A4%B8%E0%A5%87%E0%A4%A8%E0%A4%BE-%E0%A4%95%E0%A5%87-%E0%A4%AC%E0%A4%BE%E0%A4%B0%E0%A5%87-%E0%A4%AE%E0%A5%87%E0%A4%82-10-%E0%A4%96%E0%A4%BE%E0%A4%B8-%E0%A4%AC%E0%A4%BE%E0%A4%A4%E0%A5%87%E0%A4%82?lgn=hi
+https://www.youtube.com/watch?v=KmCjPzreZKM
+https://www.aajtak.in/topic/indian-army
+https://www.youtube.com/watch?v=K93ik5PugJA
+
+# =======================================================
+# Dork 16: "अत्याचार"
+# =======================================================
+https://hi.wikipedia.org/wiki/%E0%A4%85%E0%A4%A4%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%9A%E0%A4%BE%E0%A4%B0
+/search?num=22
+https://lalitpur.nic.in/scheme/%E0%A4%85%E0%A4%A4%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%9A%E0%A4%BE%E0%A4%B0-%E0%A4%89%E0%A4%A4%E0%A5%8D%E0%A4%AA%E0%A5%80%E0%A4%A1%E0%A4%BC%E0%A4%A8-%E0%A4%95%E0%A5%80-%E0%A4%A6%E0%A4%B6%E0%A4%BE/
+https://socialwelfare.vikaspedia.in/viewcontent/social-welfare/90591594d938930-92a94291b947-91c93e928947-93593e932947-92a94d93093694d928/90592894193894291a93f924-91c93e92493f-91593294d92f93e923-93893e92e93e92894d92f924903-92a94291b947-91c93e928947-93593e932947-92a94d93093694d928/%E0%A4%85%E0%A4%A4%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%9A%E0%A4%BE%E0%A4%B0?lgn=hi
+https://www.aajtak.in/india/news/story/manipur-stepfather-convicted-pocso-act-assaulting-minor-daughter-lcltm-rptc-2319905-2025-08-28
+https://www.youtube.com/watch?v=vOnO6Bo4DY0
+https://www.youtube.com/shorts/CFstWeUwcZA
+https://www.facebook.com/IndianNationalCongress/videos/%E0%A4%AC%E0%A4%B9%E0%A5%81%E0%A4%A4-%E0%A4%B9%E0%A5%81%E0%A4%86-%E0%A4%85%E0%A4%A4%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%9A%E0%A4%BE%E0%A4%B0-%E0%A4%85%E0%A4%AC-%E0%A4%AC%E0%A4%B8-%E0%A4%95%E0%A4%B0%E0%A5%8B-%E0%A4%B8%E0%A4%B0%E0%A4%95%E0%A4%BE%E0%A4%B0-/950116739537459/
+https://www.bbc.com/hindi/topics/cnlvpm3mj1jt
+http://esomsa.hp.gov.in/?q=hi/%E0%A4%85%E0%A4%A4%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%9A%E0%A4%BE%E0%A4%B0-%E0%A4%95%E0%A5%80-%E0%A4%B5%E0%A5%88%E0%A4%A7%E0%A4%A4%E0%A4%BE-%E0%A4%95%E0%A5%87-%E0%A4%B2%E0%A4%BF%E0%A4%8F-%E0%A4%B8%E0%A4%AE%E0%A5%8D%E0%A4%AE%E0%A4%BE%E0%A4%A8-%E0%A4%95%E0%A5%87-%E0%A4%B2%E0%A4%BF%E0%A4%8F-%E0%A4%89%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%B0%E0%A5%A4
+https://www.instagram.com/reel/DLpgaIZyqQ1/
+https://www.facebook.com/goimsje/posts/%E0%A4%AC%E0%A5%8B%E0%A4%B2%E0%A5%8B-%E0%A4%B8%E0%A5%81%E0%A4%B0%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%BF%E0%A4%A4-%E0%A4%B0%E0%A4%B9%E0%A5%8B%E0%A4%95%E0%A4%BF%E0%A4%B8%E0%A5%80-%E0%A4%AD%E0%A5%80-%E0%A4%85%E0%A4%A4%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%9A%E0%A4%BE%E0%A4%B0-%E0%A4%AF%E0%A4%BE-%E0%A4%AD%E0%A5%87%E0%A4%A6%E0%A4%AD%E0%A4%BE%E0%A4%B5-%E0%A4%95%E0%A5%80-%E0%A4%B0%E0%A4%BF%E0%A4%AA%E0%A5%8B%E0%A4%B0%E0%A5%8D%E0%A4%9F-%E0%A4%85%E0%A4%A4%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%9A%E0%A4%BE%E0%A4%B0-%E0%A4%A8%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B0%E0%A4%A3-%E0%A4%B9%E0%A5%87%E0%A4%B2%E0%A5%8D%E0%A4%AA%E0%A4%B2%E0%A4%BE%E0%A4%87%E0%A4%A8/1065956782381888/
+https://dict.hinkhoj.com/%E0%A4%85%E0%A4%A4%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%9A%E0%A4%BE%E0%A4%B0-meaning-in-english.words
+https://www.youtube.com/watch?v=XvZGS6zATAg
+https://x.com/NCIBHQ/status/1766652579390620022?lang=hi
+https://www.ideasforindia.in/topics/miscellany/atrocities-murders-and-untouchability-measuring-caste-based-discrimination-hindi.html
+https://www.facebook.com/BJP4India/videos/%E0%A4%B9%E0%A4%AE%E0%A4%BE%E0%A4%B0%E0%A5%80-%E0%A4%AE%E0%A4%BE%E0%A4%A4%E0%A4%BE%E0%A4%93%E0%A4%82-%E0%A4%AC%E0%A4%B9%E0%A4%A8%E0%A5%8B%E0%A4%82-%E0%A4%AC%E0%A5%87%E0%A4%9F%E0%A4%BF%E0%A4%AF%E0%A5%8B%E0%A4%82-%E0%A4%95%E0%A5%87-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A4%BF-%E0%A4%9C%E0%A5%8B-%E0%A4%85%E0%A4%A4%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%9A%E0%A4%BE%E0%A4%B0-%E0%A4%B9%E0%A5%8B-%E0%A4%B0%E0%A4%B9%E0%A5%87-%E0%A4%B9%E0%A5%88%E0%A4%82-%E0%A4%89%E0%A4%B8%E0%A4%95%E0%A5%87-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A4%BF-%E0%A4%9C%E0%A4%A8-%E0%A4%B8%E0%A4%BE%E0%A4%AE%E0%A4%BE%E0%A4%A8%E0%A5%8D%E0%A4%AF/1712049232946853/
+https://socialwelfare.vikaspedia.in/viewcontent/social-welfare/93893e92e93e91c93f915-91c93e91793094191592493e/92e93993f93293e-93993f90293893e/92e93993f93293e-93894193091594d93793e-91593294d92f93e923-92d930923-92a94b937923-90f935902-92893f93094d93593e939/%E0%A4%A6%E0%A4%B9%E0%A5%87%E0%A4%9C%E0%A4%BC-%E0%A4%95%E0%A5%87-%E0%A4%85%E0%A4%A4%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%9A%E0%A4%BE%E0%A4%B0-%E0%A4%B8%E0%A5%87-%E0%A4%AE%E0%A4%B9%E0%A4%BF%E0%A4%B2%E0%A4%BE-%E0%A4%95%E0%A5%80-%E0%A4%B8%E0%A5%81%E0%A4%B0%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%BE?lgn=hi
+https://www.instagram.com/reel/DLWVagsTei7/
+https://www.facebook.com/nazarbattubharatt/videos/%E0%A4%85%E0%A4%A4%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%9A%E0%A4%BE%E0%A4%B0-%E0%A4%95%E0%A4%B0%E0%A4%A8%E0%A4%BE-%E0%A4%94%E0%A4%B0-%E0%A4%B8%E0%A4%B9%E0%A4%A8%E0%A4%BE-%E0%A4%A6%E0%A5%8B%E0%A4%A8%E0%A5%8B%E0%A4%82-%E0%A4%B9%E0%A5%80-%E0%A4%97%E0%A4%B2%E0%A4%A4-%E0%A4%B9%E0%A5%88-/101768735https://ww
+# =======================================================
+# Dork 17: "ज़ुल्म"
+# =======================================================
+https://www.rekhtadictionary.com/meaning-of-zulm?lang=hi
+https://www.hindwi.org/hindi-dictionary/meaning-of-zulm
+https://www.rekhta.org/couplets/zulm-phir-zulm-hai-badhtaa-hai-to-mit-jaataa-hai-sahir-ludhianvi-couplets?lang=hi
+https://www.rekhta.org/ghazals/zulm-jab-had-se-sivaa-ho-to-ayaan-hotaa-hai-nazeer-nadir-ghazals?lang=hi
+https://www.hindi2dictionary.com/%E0%A4%9C%E0%A4%BC%E0%A5%81%E0%A4%B2%E0%A5%8D%E0%A4%AE-meaning-hindi.html
+https://hi.wikipedia.org/wiki/%E0%A4%9C%E0%A4%BC%E0%A5%81%E0%A4%B2%E0%A5%8D%E0%A4%AE_%E0%A4%95%E0%A5%80_%E0%A4%85%E0%A4%A6%E0%A4%BE%E0%A4%B2%E0%A4%A4_(1992_%E0%A4%AB%E0%A4%BC%E0%A4%BF%E0%A4%B2%E0%A5%8D%E0%A4%AE)
+https://www.hindwi.org/kavita/zulm-surjeet-hans-kavita
+https://www.hindwidictionary.com/meaning-of-zulm
+https://www.amazon.in/ZULM-AUR-NAHI-%E0%A4%9C%E0%A4%BC%E0%A5%81%E0%A4%B2%E0%A5%8D%E0%A4%AE-%E0%A4%A8%E0%A4%B9%E0%A5%80%E0%A4%82/dp/B0BQJ5QZCN
+https://x.com/ShayarImran/status/1639201441201164288
+https://www.instagram.com/reel/DNyKoSQ5rbb/
+https://www.reddit.com/r/mentalhealth/comments/1kat36i/what_is_actually_abuse/?tl=hi
+https://www.amarujala.com/kavya/urdu-adab/sahir-ludhianvi-famous-urdu-nazm-hum-amna-chahte-hain-magar-zulm-ke-khilaaf-2025-05-07
+https://www.facebook.com/drlaxmanyadav8/videos/%E0%A4%9C%E0%A4%BC%E0%A5%81%E0%A4%B2%E0%A5%8D%E0%A4%AE-%E0%A4%AB%E0%A4%BF%E0%A4%B0-%E0%A4%9C%E0%A4%BC%E0%A5%81%E0%A4%B2%E0%A5%8D%E0%A4%AE-%E0%A4%B9%E0%A5%88-%E0%A4%AC%E0%A4%A2%E0%A4%BC%E0%A4%A4%E0%A4%BE-%E0%A4%B9%E0%A5%88-%E0%A4%A4%E0%A5%8B-%E0%A4%AE%E0%A4%BF%E0%A4%9F-%E0%A4%9C%E0%A4%BE%E0%A4%A4%E0%A4%BE-%E0%A4%B9%E0%A5%88%E0%A4%96%E0%A4%BC%E0%A5%82%E0%A4%A8-%E0%A4%AB%E0%A4%BF%E0%A4%B0-%E0%A4%96%E0%A4%BC%E0%A5%82%E0%A4%A8-%E0%A4%B9%E0%A5%88-%E0%A4%9F%E0%A4%AA%E0%A4%95%E0%A5%87%E0%A4%97%E0%A4%BE-%E0%A4%A4%E0%A5%8B-%E0%A4%9C%E0%A4%AE-%E0%A4%9C%E0%A4%BE%E0%A4%8F%E0%A4%97%E0%A4%BE-/2081002492426022/
+https://thetricontinental.org/hi/newsletterissue/newsletter-8-2020-art/
+https://hi.wikipedia.org/wiki/%E0%A4%9C%E0%A4%BC%E0%A5%81%E0%A4%B2%E0%A5%8D%E0%A4%AE-%E0%A4%93-%E0%A4%B8%E0%A4%BF%E0%A4%A4%E0%A4%AE_(1998_%E0%A4%AB%E0%A4%BC%E0%A4%BF%E0%A4%B2%E0%A5%8D%E0%A4%AE)
+https://www.shabdkosh.com/hi/dictionary/hindi-english/%E0%A5%9B%E0%A5%81%E0%A4%B2%E0%A5%8D%E0%A4%AE/%E0%A5%9B%E0%A5%81%E0%A4%B2%E0%A5%8D%E0%A4%AE-meaning-in-english
+https://www.youtube.com/watch?v=pFnJi5fnUbA
+https://www.facebook.com/kazmin.siddiqui.5/videos/%E0%A4%9C%E0%A4%BC%E0%A5%81%E0%A4%B2%E0%A5%8D%E0%A4%AE-%E0%A4%95%E0%A5%80-%E0%A4%B9%E0%A4%A6%E0%A5%8D%E0%A4%A6-%E0%A4%B9%E0%A5%88-%E0%A4%86%E0%A4%9C-%E0%A4%AE%E0%A5%81%E0%A4%B8%E0%A4%B2%E0%A4%AE%E0%A4%BE%E0%A4%A8-%E0%A4%B9%E0%A5%8B%E0%A4%A8%E0%A5%87-%E0%A4%95%E0%A5%80-%E0%A4%B8%E0%A4%9C%E0%A4%BC%E0%A4%BE-%E0%A4%AE%E0%A4%BF%E0%A4%B2%E0%A5%80-%E0%A4%B5%E0%A4%B0%E0%A4%A8%E0%A4%BE-%E0%A4%9C%E0%A5%81%E0%A4%B0%E0%A5%8D%E0%A4%AE-%E0%A4%95%E0%A5%8B%E0%A4%88-%E0%A4%87%E0%A4%A4%E0%A4%A8%E0%A4%BE-%E0%A4%A4%E0%A5%8B-%E0%A4%AC%E0%A4%A1%E0%A4%BC%E0%A4%BE-%E0%A4%A8%E0%A4%B9%E0%A5%80%E0%A4%82-/1251003509529308/
+https://www.google.com/search?num=22
+
+# =======================================================
+# Dork 18: "आज़ादी"
+# =======================================================
+https://nios.ac.in/media/documents/sechincour/Chapter-7.pdf
+https://hi.wikipedia.org/wiki/%E0%A4%B0%E0%A4%BE%E0%A4%9C%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF%E0%A4%95_%E0%A4%86%E0%A4%9C%E0%A4%BC%E0%A4%BE%E0%A4%A6%E0%A5%80
+https://www.youtube.com/watch?v=dTNNL2XIEy0
+https://ncert.nic.in/cncl/resources/continuing_education/ncert/aazadi_ki_ladhai_ka_sapna_2015.pdf
+https://www.education.gov.in/azadi/gallery.html
+https://www.facebook.com/007AliSohrab/posts/%E0%A4%86%E0%A4%9C%E0%A4%BC%E0%A4%BE%E0%A4%A6%E0%A5%80-%E0%A4%95%E0%A4%BE-%E0%A4%AE%E0%A4%A4%E0%A4%B2%E0%A4%AC-%E0%A4%95%E0%A5%8D%E0%A4%AF%E0%A4%BE/1297063605121114/
+https://www.facebook.com/SkillIndiaOfficial/videos/%E0%A4%B8%E0%A5%8D%E0%A4%B5%E0%A4%A4%E0%A4%82%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A4%BE-%E0%A4%A6%E0%A4%BF%E0%A4%B5%E0%A4%B8-%E0%A4%B9%E0%A4%AE%E0%A5%87%E0%A4%82-%E0%A4%B8%E0%A4%BF%E0%A4%B0%E0%A5%8D%E0%A4%AB-%E0%A4%86%E0%A4%9C%E0%A4%BC%E0%A4%BE%E0%A4%A6%E0%A5%80-%E0%A4%95%E0%A5%80-%E0%A4%AF%E0%A4%BE%E0%A4%A6-%E0%A4%A8%E0%A4%B9%E0%A5%80%E0%A4%82-%E0%A4%A6%E0%A4%BF%E0%A4%B2%E0%A4%BE%E0%A4%A4%E0%A4%BE-%E0%A4%AC%E0%A4%B2%E0%A5%8D%E0%A4%95%E0%A4%BF-%E0%A4%B9%E0%A4%AE%E0%A5%87%E0%A4%82-%E0%A4%B8%E0%A4%BF%E0%A4%96%E0%A4%BE%E0%A4%A4%E0%A4%BE-%E0%A4%B9%E0%A5%88-%E0%A4%95%E0%A4%BF-%E0%A4%86%E0%A4%9C%E0%A4%BC/768107545796731/
+https://www.jkrishnamurti.in/product-page/azadi-kya-hoti-hai?srsltid=AfmBOooeWubV4LMKHe2zHgLOBjMqCTMtK8ezgmK5vvuK4vzjTORp8w1L
+https://www.rekhta.org/occasion/jashn-e-aazadi/nazms/?lang=hi
+https://hi.wikipedia.org/wiki/%E0%A4%9C%E0%A4%82%E0%A4%97-%E0%A4%8F-%E0%A4%86%E0%A4%9C%E0%A4%BC%E0%A4%BE%E0%A4%A6%E0%A5%80_%E0%A4%B8%E0%A5%8D%E0%A4%AE%E0%A4%BE%E0%A4%B0%E0%A4%95
+https://knowindia.india.gov.in/hindi/independence-day-celebration/
+https://www.youtube.com/shorts/suxLhWx1xUw
+https://www.amazon.in/Azadi-%E0%A4%86%E0%A4%9C%E0%A4%BC%E0%A4%BE%E0%A4%A6%E0%A5%80-Arundhati-Roy/dp/9389598702
+https://www.facebook.com/Nazarbattubhaarat/videos/%E0%A4%86%E0%A5%9B%E0%A4%BE%E0%A4%A6%E0%A5%80-%E0%A4%95%E0%A5%80-%E0%A4%AE%E0%A4%A4%E0%A4%B2%E0%A4%AC-%E0%A4%95%E0%A5%8D%E0%A4%AF%E0%A4%BE-%E0%A4%B9%E0%A5%88-/1515918146422126/
+https://play.google.com/store/apps/details?id=com.azadikaamritmahotsav&hl=hi
+https://www.youtube.com/shorts/wsTqw3MuKgE
+https://www.instagram.com/reel/DNXgoaSS53H/
+https://www.google.com/search?num=22
+https://himachal.nic.in/hi-IN/post-independence-period.html
+https://www.facebook.com/kalamghasit/posts/%E0%A4%86%E0%A4%9C%E0%A4%BC%E0%A4%BE%E0%A4%A6%E0%A5%80-%E0%A4%95%E0%A5%87-%E0%A4%A6%E0%A4%BF%E0%A4%A8-%E0%A4%AE%E0%A5%81%E0%A4%9D%E0%A5%87-%E0%A4%85%E0%A4%AA%E0%A4%A8%E0%A5%80-%E0%A4%B5%E0%A5%8D%E0%A4%AF%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%BF%E0%A4%97%E0%A4%A4-%E0%A4%86%E0%A4%9C%E0%A4%BC%E0%A4%BE%E0%A4%A6%E0%A5%80-%E0%A4%95%E0%A4%BE-%E0%A4%A6%E0%A4%BF%E0%A4%A8-%E0%A4%AD%E0%A5%80-%E0%A4%AF%E0%A4%BE%E0%A4%A6-%E0%A4%86%E0%A4%A4%E0%A4%BE-%E0%A4%B9%E0%A5%88-%E0%A4%9C%E0%A4%AC-%E0%A4%B8%E0%A4%B0%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%80-%E0%A4%A8%E0%A5%8C%E0%A4%95%E0%A4%B0%E0%A5%80-%E0%A4%9B%E0%A5%8B/4051212801784142/
+
+# =======================================================
+# Dork 19: "कब्जा"
+# =======================================================
+https://www.google.com/search?num=22
+/search?num=22
+https://www.youtube.com/watch?v=wFnhP6p5tx4
+https://www.amazon.in/-/hi/gp/new-releases/home-improvement/9835436031
+https://www.youtube.com/watch?v=cvVbyFys-wg&pp=0gcJCRsBo7VqN5tD
+https://www.amazon.in/-/hi/b?ie=UTF8&node=9835436031
+https://www.youtube.com/watch?v=BVpl-h6YlQc
+https://www.facebook.com/100090490508561/videos/%E0%A4%85%E0%A4%AC-%E0%A4%95%E0%A4%AC%E0%A5%8D%E0%A4%9C%E0%A4%BE-%E0%A4%95%E0%A4%B0%E0%A4%A8%E0%A5%87-%E0%A4%B5%E0%A4%BE%E0%A4%B2%E0%A4%BE-%E0%A4%B9%E0%A5%80-%E0%A4%AC%E0%A4%A8%E0%A5%87%E0%A4%97%E0%A4%BE-%E0%A4%B8%E0%A4%82%E0%A4%AA%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%BF-%E0%A4%95%E0%A4%BE-%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BF%E0%A4%95-2025-new-law-adverse-possession-kab/3883454661968253/
+https://www.youtube.com/watch?v=r6Mu673-qTw
+https://www.youtube.com/watch?v=a_uPX9Vw1Ys
+https://hindi.news18.com/news/business/property-land-ownership-lost-adverse-possession-or-12-years-law-india-9386200.html
+https://www.youtube.com/watch?v=bwGnShaGBuI
+https://www.jagran.com/haryana/faridabad-government-land-has-been-illegally-occupied-now-the-government-will-make-the-land-owner-this-proof-will-have-to-be-given-40002111.html
+https://www.youtube.com/watch?v=UgvjNr15_zM
+https://hindi.news18.com/news/business/property-government-land-adverse-possession-legal-rights-lease-or-patta-application-ws-kln-9477173.html
+https://www.hindwi.org/hindi-dictionary/meaning-of-kabja
+https://hi.quora.com/%E0%A4%95%E0%A4%BF%E0%A4%A4%E0%A4%A8%E0%A5%87-%E0%A4%B8%E0%A4%BE%E0%A4%B2-%E0%A4%A4%E0%A4%95-%E0%A4%9C%E0%A4%AE%E0%A5%80%E0%A4%A8-%E0%A4%AA%E0%A4%B0-%E0%A4%95%E0%A4%AC%E0%A5%8D%E0%A4%9C%E0%A4%BE
+https://cgewho.in/Hindi/pdf/COMX2.pdf
+https://jansunwai.up.nic.in/ABMP
+https://www.youtube.com/watch?v=_Q7QC3TLx_Q
+
+# =======================================================
+# Dork 20: "Hindutva extremism"
+# =======================================================
+https://www.amazon.in/Hindutva-Extremism-Ideological-Clash-Muslims/dp/9348478451
+https://pu.edu.pk/images/journal/indianStudies/PDF/8_v8_1_22.pdf
+https://www.flipkart.com/hindutva-extremism/p/itme77e02856fe2a?pid=9789348478450&lid=LSTBOK9789348478450MUNZLS&marketplace=FLIPKART&cmpid=content_book_8965229628_gmc
+https://www.preventwatch.org/islam-channel-report-blames-hindutva-extremism-and-policy-failures-for-2022-unrest-in-leicester/
+https://mcb.org.uk/hindutva-flags-in-leicester-raise-alarm/
+https://www.amazon.in/Hindutva-Extremism-Ideological-Clash-Muslims/dp/B0FGXG2N1R
+https://mmipublishers.net/product/hindutva-extremism-e/
+https://www.telegraphindia.com/opinion/on-cyber-hindutva-authorities-must-crack-down-on-indias-right-wing-extremism-prnt/cid/2116597
+https://x.com/tanmoyofc/status/1961014069973995981
+https://www.facebook.com/tcmoriginalsofficial/videos/why-is-hindutva-extremism-rising-in-indiafrom-hindutvas-rise-in-india-to-america/751595774282667/
+https://islamchannel.tv/independent-report-blames-hindutva-extremism-and-policy-failures-for-leicesters-2022-unrest/
+https://opencanada.org/combating-human-rights-violations-in-india-and-hindutva-extremism-in-canada/
+https://www.ojs.jdss.org.pk/journal/article/download/595/498
+https://www.aninews.in/topic/hindutva-extremism
+https://www.indiatoday.in/world/uk-news/story/uk-leaked-report-hindu-nationalism-pro-khalistani-extremism-threats-britain-islamist-left-wing-2671734-2025-01-29
+https://www.hindutvawatch.org/tag/hindutva-extremism/
+https://www.vice.com/en/article/how-far-right-hindu-supremacy-went-global/
+https://www.researchgate.net/publication/384213685_History_of_Hindutva_Ideology_Massive_Violations_of_Minority's_Rights_in_India
+https://www.facebook.com/tcmoriginalsofficial/posts/why-is-hindutva-extremism-rising-in-indiafrom-hindutvas-rise-in-india-to-america/811973271156372/
+https://tribunemag.co.uk/2024/08/indias-anti-muslim-apartheid-bjp-israel-modi
+
+# =======================================================
+# Dork 21: "Brahmanical patriarchy"
+# =======================================================
+https://www.tandfonline.com/doi/full/10.1080/01436597.2022.2099824
+https://ruralindiaonline.org/en/library/resource/conceptualising-brahmanical-patriarchy-in-early-india-gender-caste-class-and-state/
+https://www.jstor.org/stable/4399556
+https://www.epw.in/engage/article/building-blocks-brahmanical-patriarchy
+https://timesofindia.indiatimes.com/readersblog/blatheringovergreentea/the-curse-of-brahmanical-patriarchy-37102/
+https://littleflowercollege.edu.in/upload/e_contents/files/285c4e2fa86804355f49487c5a62c3be.pdf
+https://www.google.com/search?num=22
+https://www.amazon.in/Conceptualising-Brahmanical-patriarchy-early-India/dp/8189524879
+https://www.firstpost.com/india/brahmanical-patriarchy-is-a-term-that-opens-up-the-world-in-a-challenging-painful-but-ultimately-liberating-way-5664741.html
+https://gaurav-lele.medium.com/what-is-brahmanical-in-indian-patriarchy-6c34828918ed
+https://feminisminindia.com/2024/09/18/fighting-an-endless-battle-against-the-brahmanical-patriarchy-while-being-a-feminist/
+https://www.reddit.com/r/india/comments/gas0k8/what_do_you_mean_by_brahmanical_patriarchy/
+https://journals.library.brandeis.edu/index.php/caste/article/download/54/10/451
+https://janataweekly.org/conceptualising-brahmanical-patriarchy-in-early-india/
+http://cpiml.net/liberation/2018/11/smash-brahmanical-patriarchy
+https://www.facebook.com/BrahmanicalPatriarchy/
+https://www.youthkiawaaz.com/2021/03/chosetochallengepatriarchy/
+https://journals.library.brandeis.edu/index.php/caste/article/view/54
+https://science.thewire.in/health/how-the-brahmanical-patriarchy-can-directly-affect-community-mental-health/
+https://www.instagram.com/p/CGE9ulxBoCj/
+
+# =======================================================
+# Dork 22: "caste oppression"
+# =======================================================
+https://en.wikipedia.org/wiki/Dalit
+https://thesecuritydistillery.org/all-articles/caste-oppression-and-gender-security-in-india
+https://www.thehindu.com/features/magazine/Caste-oppression-is-systemic-and-every-one-of-us-participates-in-it-knowingly-or-unknowingly/article59839026.ece
+https://jacobin.com/2024/06/caste-oppression-dalits-agriculture-punjab/
+https://www.epw.in/journal/2024/42/postscript/caste-oppression-and-shifting-power-dynamics.html
+https://wagingnonviolence.org/2021/08/india-dalit-artists-shaking-age-old-system-caste-oppression/
+https://www.hindusforhumanrights.org/hinduism-and-caste
+https://www.roundtableindia.co.in/tag/caste-oppression/
+https://cjp.org.in/a-list-of-must-read-books-about-the-oppression-marginalisation-and-resistance-of-dalits/
+https://www.epw.in/engage/article/rohith-vemula-foregrounding-caste-oppression
+https://religionunplugged.com/news/2025/4/24/how-dalit-christians-are-using-social-media-to-challenge-caste-oppression
+https://www.nbcnews.com/news/asian-america/big-techs-big-problem-also-best-kept-secret-caste-discrimination-rcna33692
+https://nonprofitquarterly.org/the-fight-against-caste-oppression-comes-to-us-higher-education/
+https://cmiconsortium.org/intersecting-realities-confronting-caste-oppression-of-trans-persons-in-india/
+https://digitalcommons.calpoly.edu/cgi/viewcontent.cgi?article=1043&context=socssp
+https://scroll.in/article/984297/how-caste-oppression-is-institutionalised-in-indias-sanitation-jobs
+https://library.fiveable.me/key-terms/introduction-gender-studies/gender-and-caste-oppression
+https://www.aljazeera.com/opinions/2023/2/21/dalits-are-winning-against-caste-discrimination-in-the-us-too
+https://www.bbc.com/news/world-asia-india-48619734
+https://theprint.in/opinion/the-west-has-imagined-caste-oppression-and-it-is-being-weaponised-against-indians/1392605/
+
+# =======================================================
+# Dork 23: "Dalit atrocities"
+# =======================================================
+https://cjp.org.in/the-alarming-rise-of-anti-dalit-violence-and-discrimination-in-india-a-series-of-gruesome-incidents-since-july-2024/
+https://clpr.org.in/blog/dalit-atrocities-in-the-name-of-honour/
+https://cjp.org.in/everyday-atrocity-mapping-the-normalisation-of-violence-against-dalits-and-adivasis-in-2025/
+https://theprobe.in/human-rights/dalit-tragedies-the-hidden-horrors-of-caste-violence-4522052
+https://elibrary.sansad.in/handle/123456789/969588
+https://theleaflet.in/topic/dalit-atrocities
+https://www.ndtv.com/topic/dalit-atrocities
+https://sansad.in/getFile/loksabhaquestions/annex/178/AU3144.pdf?source=pqals
+https://sabrangindia.in/bjp-ruled-states-account-for-highest-dalit-violence-cases-up-on-top-mp-records-highest-reported-crimes-against-sts/
+https://journals.sagepub.com/doi/abs/10.1177/2455328X221136385
+https://caravanmagazine.in/tag/dalit-atrocities
+https://www.slic.org.in/training/till-the-bitter-end-film-on-dalit-atrocities-in-india-part-1
+https://www.newsclick.in/What-is-Similar-Between-India-and-Nepal-Dalit-Atrocities
+https://en.wikipedia.org/wiki/Khairlanji_massacre
+https://scroll.in/topic/5010/dalit-atrocities
+https://idsn.org/indian-government-attack-atrocities-dalits/
+https://www.amazon.in/Atrocities-Criminal-Selective-Blindness-Research-ebook/dp/B07C7DJ7DT
+https://caravanmagazine.in/caste/caste-atrocities-in-tamil-nadu-have-increased-nearly-fivefold-in-lockdown-dalit-organisations
+https://indianexpress.com/about/dalit-atrocities/
+https://www.aljazeera.com/opinions/2014/6/10/indias-courts-condone-dalit-atrocities
+
+# =======================================================
+# Dork 24: "Islamophobia in India"
+# =======================================================
+https://en.wikipedia.org/wiki/Violence_against_Muslims_in_India
+https://www.aljazeera.com/gallery/2023/4/18/history-illustrated-the-rise-of-islamophobia-in-india
+https://www.scienceopen.com/hosted-document?doi=10.13169/reorient.8.2.0153
+https://digitalcollections.sit.edu/isp_collection/3723/
+https://berkleycenter.georgetown.edu/events/india-and-the-rise-of-islamophobia
+https://www.youtube.com/watch?v=p4QPfVooDA4
+https://www.jstor.org/stable/48752332
+https://www.societyandspace.org/articles/islamophobia-in-india
+https://www.frontiersin.org/journals/communication/articles/10.3389/fcomm.2024.1205116/full
+https://onlinelibrary.wiley.com/doi/pdf/10.1111/1467-923X.13152
+https://www.intechopen.com/chapters/1208962
+https://link.springer.com/chapter/10.1007/978-3-031-52022-8_20
+https://www.hurights.or.jp/archives/focus/section3/2020/06/countering-islamophobia-in-india.html
+https://www.scienceopen.com/hosted-document?doi=10.13169/islastudj.8.1.0123
+https://www.mdpi.com/2077-1444/13/5/380
+https://pdfs.semanticscholar.org/4963/ad23e2bf5e869b4a7ba7627c6686cdc5935a.pdf
+https://www.theindiaforum.in/article/banality-islamophobia
+https://www.jstor.org/stable/48676238
+https://en.wikipedia.org/wiki/Category:Islamophobia_in_India
+https://www.hrw.org/news/2020/05/01/coronajihad-only-latest-manifestation-islamophobia-india-has-been-years-making
+
+# =======================================================
+# Dork 25: "anti-muslim violence"
+# =======================================================
+https://en.wikipedia.org/wiki/Violence_against_Muslims_in_India
+https://en.wikipedia.org/wiki/Islamophobia
+https://www.aljazeera.com/news/2025/4/29/traitors-hate-filled-songs-target-indian-muslims-after-kashmir-attack
+https://www.bbc.com/news/world-asia-india-59047517
+https://www.hrw.org/news/2023/04/05/indias-hindu-festivals-bring-increasing-anti-muslim-violence
+https://www.cfr.org/backgrounder/india-muslims-marginalized-population-bjp-modi
+https://www.ohchr.org/sites/default/files/Documents/Issues/Religion/Islamophobia-AntiMuslim/Civil%20Society%20or%20Individuals/CitizensAgainstHate.pdf
+https://worldwithoutgenocide.org/toolkits/violence-against-muslims-in-india
+https://www.ebsco.com/research-starters/ethnic-and-cultural-studies/anti-muslim-violence-us
+https://www.jstor.org/stable/26508117
+https://journals.sagepub.com/doi/10.1177/00699659231208696?icid=int.sj-abstract.citing-articles.1
+https://www.youtube.com/watch?v=k9oj9ekaQAw
+https://www.youtube.com/playlist?list=PLzGHKb8i9vTx0vxl-XQWKU4IbOTLpAtUB
+https://www.osce.org/files/f/documents/9/0/448696.pdf
+https://lup.lub.lu.se/search/publication/9dfc88e4-cd75-421b-baa1-5573370714fd
+https://www.aljazeera.com/news/2024/2/26/hamas-to-halal-how-anti-muslim-hate-speech-is-spreading-in-india
+https://www.jstor.org/stable/j.ctt7t0nz
+https://www.hrw.org/report/2020/04/10/shoot-traitors/discrimination-against-muslims-under-indias-new-citizenship-policy
+https://www.bbc.com/news/world-asia-india-59398367
+https://www.csohate.org/2024/12/18/muslims-in-india/
+
+# =======================================================
+# Dork 26: "persecution of Christians"
+# =======================================================
+https://en.wikipedia.org/wiki/Persecution_of_Christians
+https://en.wikipedia.org/wiki/Persecution_of_Christians_in_the_Roman_Empire
+https://commonslibrary.parliament.uk/research-briefings/cdp-2022-0200/
+https://study.com/learn/lesson/christian-persecution-overview-importance.html
+https://www.churchinneed.org/christian-persecution/
+https://academic.oup.com/past/article/261/1/3/6982747
+https://commonslibrary.parliament.uk/research-briefings/cdp-2022-0042/
+https://www.youtube.com/watch?v=EDGFWl5aFhQ
+https://www.theguardian.com/world/2019/may/02/persecution-driving-christians-out-of-middle-east-report
+https://www.bbc.com/news/uk-48146305
+https://globalchristianrelief.org/christian-persecution/stories/
+https://www.vaticannews.va/en/church/news/2019-10/persecution-of-christians-report-of-aid-to-the-church-in-need.html
+https://assets.publishing.service.gov.uk/media/59786a0040f0b65dcb00000a/042-Persecution-of-Christians-in-the-Middle-East.pdf
+https://www.theguardian.com/world/2021/jan/13/christian-persecution-rises-as-people-refused-aid-in-covid-crisis-report
+https://www.genocidewatch.com/single-post/hindu-extremists-threaten-genocide-against-christians
+https://christianhistoryinstitute.org/magazine/article/persecution-in-early-church-gallery
+https://www.youtube.com/watch?v=FGPIZGdv_ec
+https://www.opendoorsus.org/en-US/stories/10-most-dangerous-places-Christians/
+https://www.bartehrman.com/persecution-of-christians/
+https://www.historytoday.com/archive/causes-early-persecutions
+
+# =======================================================
+# Dork 27: "CAA NRC protest"
+# =======================================================
+https://en.wikipedia.org/wiki/Citizenship_Amendment_Act_protests
+https://www.epw.in/engage/article/protests-during-pandemic-timeline-protests-2020
+https://en.wikipedia.org/wiki/Shaheen_Bagh_protest
+https://archive-it.org/collections/13715
+https://qz.com/india/1778891/delhis-shaheen-bagh-women-keep-indias-caa-nrc-protest-alive
+https://www.ndtv.com/topic/caa-~-nrc-protest
+https://journals.openedition.org/samaj/6812
+https://cjp.org.in/tag/caa-nrc-protest/
+https://www.researchgate.net/publication/351577425_Mapping_Out_the_Anti-CAA_NRC_Protest
+https://www.youtube.com/watch?v=Y8RapX2C9oo
+https://www.thehindu.com/news/national/man-accused-of-rioting-damaging-public-property-during-caa-nrc-protest-gets-bail/article65784922.ece
+https://indianexpress.com/article/opinion/columns/nrc-india-caa-protest-jamia-millia-students-protest-6175657/
+https://www.deccanherald.com/india/tukde-tukde-gang-behind-caa-nrc-protest-prasad-787861.html
+https://www.youtube.com/watch?v=k3ZXceUIiZY
+https://journals.openedition.org/samaj/6916
+https://timesofindia.indiatimes.com/india/citizenship-amendment-act-protests-live-updates/liveblog/72988153.cms
+https://www.thehindu.com/news/cities/Hyderabad/students-stage-protest-against-caa-nrc-in-osmania-university/article30384061.ece
+https://www.wikiwand.com/en/articles/Citizenship_Amendment_Act_protests
+https://www.facebook.com/abplive/posts/anti-caa-nrc-protest-after-friday-prayers-in-delhi-and-hyderabad/3874262442591751/
+https://www.facebook.com/Timesnow/videos/anti-caa-nrc-protest-erupts-both-inside-outside-the-up-assembly-proceedings-have/616058089247763/
+
+# =======================================================
+# Dork 28: "Manipur violence"
+# =======================================================
+https://en.wikipedia.org/wiki/2023%E2%80%932025_Manipur_violence
+https://indianexpress.com/article/india/manipur-violence-meitei-body-slams-tribunal-report-pucl-biased-politically-engineered-10213004/
+https://www.thehindu.com/news/national/manipur/manipur-violence-was-not-spontaneous-but-planned-ethnically-targeted-and-facilitated-by-state-failures-report/article69956985.ece
+https://www.crisisgroup.org/asia/south-asia/india/346-finding-way-out-festering-conflict-indias-manipur
+https://www.reuters.com/world/india/why-has-ethnic-violence-escalated-indias-manipur-state-again-2024-11-18/
+https://theconversation.com/manipur-violence-why-has-indias-government-been-slow-to-respond-210785
+https://www.bbc.com/news/world-asia-india-66260730
+
+https://www.thehindu.com/news/national/manipur/manipur-marks-two-years-of-ethnic-violence-by-remembering-victims/article69534931.ece
+https://www.theguardian.com/world/2023/jul/21/manipur-india-why-is-there-conflict-and-how-is-the-government-responding
+https://www.aljazeera.com/news/2023/8/9/why-ethnic-violence-in-indias-manipur-has-been-going-on-for-three-months
+https://www.youtube.com/watch?v=CcYU_y_BJeM
+https://www.usip.org/publications/2023/10/northeast-india-manipurs-violence-echoes-sudans-darfur
+https://www.hrw.org/news/2023/06/30/ethnic-violence-spirals-indias-northeastern-manipur-state
+https://indianexpress.com/about/manipur-violence/
+https://inc.in/congress-sandesh/national/manipur-violence-a-colossal-failure-of-the-double-engine-government
+https://www.ndtv.com/india-news/supreme-court-news-manipur-violence-case-n-biren-singh-audio-leaks-case-meitei-vs-kuki-zo-ethnic-violence-manipur-8333719
+https://www.bbc.com/news/world-asia-india-66161599
+https://www.nextias.com/beyond-classroom/manipur-violence
+https://www.hrw.org/news/2023/05/30/india-investigate-police-bias-alleged-manipur-violence
+
+# =======================================================
+# Dork 29: "Farmers Protest"
+# =======================================================
+/search?num=22
+https://en.wikipedia.org/wiki/2020%E2%80%932021_Indian_farmers%27_protest
+https://www.bbc.com/news/articles/cx2nzn0pyxyo
+https://www.tribuneindia.com/news/bathinda/farmers-protest-at-warring-toll-plaza-declare-it-toll-free/
+https://www.ritimo.org/The-Resilience-of-Farmers-Protests
+https://en.wikipedia.org/wiki/2024_Indian_farmers%27_protest
+https://www.youtube.com/playlist?list=PLPPKwCCueQ_BmWEapX7yXb6-f7Q-yigSS
+https://medcraveonline.com/JHAAS/farmersrsquo-protest-in-india--analysing-the-coverage-of-farmerrsquos-protest-in-light-of-republic-day-celebrations.html
+https://www.pbs.org/newshour/tag/farmers-protest
+https://www.bbc.com/news/world-asia-india-68282270
+https://www.cambridge.org/core/journals/american-political-science-review/article/indias-farmers-protest-an-inclusive-vision-of-indian-democracy/78B4021417116DCC65F05177645AA34F
+https://www.thehindu.com/news/national/punjab/farmers-protest-cm-bhagwant-mann-skm-chandigarh-march-detain-punjab-farm-leaders/article69292909.ece
+https://www.youtube.com/watch?v=dd8l2IZJaPU
+https://www.nytimes.com/2021/01/27/world/asia/india-farmer-protest.html
+https://www.sikhcoalition.org/our-work/empowering-the-community/farmers-protest-work/
+https://www.ndtv.com/topic/farmers-protest
+https://www.youtube.com/watch?v=z4ZQcUjRTGM
+https://www.amnesty.org/en/latest/press-release/2021/02/india-government-must-stop-crushing-farmers-protests-and-demonizing-dissenters/
+https://caravanmagazine.in/tag/farmers-protest
+https://time.com/5942125/women-india-farmers-protests/
+
+# =======================================================
+# Dork 30: "religious intolerance"
+# =======================================================
+https://en.wikipedia.org/wiki/Religious_intolerance
+https://encyclopedia.uia.org/problem/religious-intolerance
+https://www.europarl.europa.eu/thinktank/en/document/EPRS_ATA(2024)762413
+https://www.universal-rights.org/urg-policy-reports/combatting-global-religious-intolerance-the-implementation-of-human-rights-council-resolution-1618/
+https://www.chrc-ccdp.gc.ca/resources/publications/discussion-paper-religious-intolerance
+https://www.igi-global.com/dictionary/citizenship-education/106388
+https://21wilberforce.org/india-growing-intolerance-and-hate-toward-religious-minorities/
+https://www.un.org/en/observances/religious-based-violence-victims-day
+https://pmc.ncbi.nlm.nih.gov/articles/PMC11060101/
+https://theleaflet.in/analysis/religious-intolerance
+https://www.theguardian.com/world/2020/nov/15/religious-intolerance-is-bigger-cause-of-prejudice-than-race-says-report
+https://www.ohchr.org/en/instruments-mechanisms/instruments/declaration-elimination-all-forms-intolerance-and-discrimination
+https://toistudent.timesofindia.indiatimes.com/news/omg/what-is-religious-intolerance/14489.html
+https://www.quora.com/What-are-some-examples-of-religious-intolerance-in-India
+https://www.voanews.com/a/us-official-calls-religious-intolerance-in-india-frightening-/7186349.html
+https://revistaselectronicas.ujaen.es/index.php/TAHRJ/article/view/6126/6202
+https://m.rediff.com/news/commentary/2025/mar/15/condemn-religious-intolerance-against-muslim-india-un/9a31cbd4e27bdee8f60040d05bd49410
+https://www.pnas.org/doi/10.1073/pnas.2213198120
+https://www.hudson.org/national-security-defense/pakistan-s-descent-into-religious-intolerance
+https://www.universal-rights.org/the-arc-of-the-covenant-the-unfinished-business-of-un-efforts-to-combat-religious-intolerance/
+
+# =======================================================
+# Dork 31: "minorities unsafe"
+# =======================================================
+https://www.quora.com/Why-do-people-of-minority-communities-feel-unsafe-in-India
+https://twitter.com/INCIndia/status/1523268979128688641
+https://x.com/KirenRijiju/status/1893608688566563200
+https://www.youtube.com/watch?v=NAJMqnp66nE
+https://www.youtube.com/watch?v=v738_RCHxCs
+https://twitter.com/DunyaNews/status/1857406490241306747
+https://www.youtube.com/watch?v=X13pA0MlSMo
+https://dunyanews.tv/en/Pakistan/850700-minorities-unsafe-in-foreign-countries-due-to-indias-extremist-ideolo
+https://www.ndtv.com/topic/attacks-on-hindus-in-bangladesh
+https://www.facebook.com/firstpostin/videos/vantageonfirstpost-is-europe-unsafe-for-minorities-vantage-with-palki-sharma/6321743657874130/
+https://timesofindia.indiatimes.com/gujarat-assembly-elections/minorities-unsafe-in-gujarat-manmohan-singh/articleshow/17551002.cms
+https://www.youtube.com/watch?v=Btx6qFvFZps
+https://www.ndtv.com/video/canada-student-smuggling-nexus-bangladesh-minorities-unsafe-azerbaijan-plane-crash-879774
+https://thekashmiriyat.co.uk/bjps-promotion-of-the-kashmir-files-has-made-minorities-unsafe-in-the-valley-ccg/
+https://www.facebook.com/thehawk/videos/pakistan-minority-rights-report-2025-religious-freedom-under-threathuman-rights-/1296335222163850/
+https://www.ndtv.com/topic/government-on-minorities
+https://zeenews.india.com/india/asaduddin-owaisi-flays-pakistan-pm-imran-khan-over-minorities-unsafe-in-india-remark-2165652.html
+https://muslimvillage.com/2019/02/24/131628/muslims-and-other-minorities-unsafe-in-india/
+https://kanglaonline.in/2013/03/minorities-unsafe-in-pakistan/
+https://www.thefridaytimes.com/08-Sep-2021/why-are-minorities-unsafe-in-pakistan-despite-supreme-court-judgment-justice-tassaduq-jilani
+
+# =======================================================
+# Dork 32: "fascist India"
+# =======================================================
+https://www.reddit.com/r/HistoryWhatIf/comments/vqpvku/fascist_india_what_if_india_became_fascist_during/
+http://www.indianculture.gov.in/ebooks/fascist-india
+https://pieterjfriedrich.medium.com/hindutva-in-the-us-the-rise-of-fascism-in-india-and-its-implications-42ca7f04124b
+https://www.foreignaffairs.com/reviews/fascist-india
+https://www.quora.com/Why-World-is-silent-for-the-growing-Facism-in-India
+https://www.abebooks.com/first-edition/Fascist-India-Patrick-Lacey-London-Nicholson/1366537528/bd
+https://books.google.com/books/about/Fascist_India.html?id=YU4_AAAAIAAJ
+https://www.amazon.co.uk/Fascist-India-Patrick-Lacey/dp/B001PBLYXU
+https://www.nationalheraldindia.com/opinion/are-we-now-looking-at-a-fully-evolved-fascist-india
+https://www.indianculture.gov.in/libraries/pdf.js/web/viewer.html?file=https%3A%2F%2Fwww.indianculture.gov.in%2Fsystem%2Ffiles%2FdigitalFilesICWeb%2Fnlirepository%2F8407%2F6974-Fascist%2520India%2520%2528part-2%2529.pdf
+https://link.springer.com/article/10.1007/s41020-020-00116-3
+https://catalogue.nla.gov.au/catalog/1982195
+https://cjp.org.in/proto-fascism-and-state-impunity-in-majoritarian-india-an-interview-with-teesta-setalvad/
+http://www.insafbulletin.net/archives/843
+https://catalogue.nli.ie/Record/vtls000407350
+https://www.amazon.com/Fascist-India-Patrick-Lacey/dp/B0007JI1WI
+https://radio.gov.pk/28-05-2021/fascist-india-is-not-obeying-even-its-own-judiciary-aphc
+https://tribune.com.pk/story/2173504/modis-annexation-occupied-kashmir-exposed-fascist-india
+https://pieterjfriedrich.medium.com/wake-up-and-smell-the-fascism-4ab6588e7fa4
+https://www.instagram.com/reel/CvYrnPHLD8t/
+
+# =======================================================
+# Dork 33: "Indian apartheid"
+# =======================================================
+https://www.outlookbusiness.com/magazine/business/story/an-indian-apartheid-6963
+https://www.differenttruths.com/indian-apartheid-a-different-colour-blindness/
+https://www.dhakatribune.com/opinion/op-ed/315571/op-ed-expanding-the-fault-lines-of-indian
+https://www.youtube.com/shorts/eyLE3uC1Bw8
+https://muse.jhu.edu/pub/30/oa_monograph/chapter/1144777
+https://www.tandfonline.com/doi/full/10.1080/03071022.2020.1812305
+https://www.dawn.com/news/1526201
+https://www.dhakatribune.com/opinion/op-ed/251244/op-ed-tracing-the-contours-of-indian-apartheid
+https://www.hindusforhumanrights.org/en/blog/as-modi-addresses-un-human-rights-groups-decry-monstrosity-of-persecution-of-muslims-christians-dalits-and-other-minorities-in-india
+https://sahistory.org.za/sites/default/files/archive-files/indian%20diaspora%20rsa%20Rastogi%20Afrindian.pdf
+https://www.thenewsminute.com/karnataka/caste-very-much-there-indian-cities-panel-discussion-bengaluru-136077
+https://www.roundtableindia.co.in/the-indian-aparhtheid-a-conference-on-caste-intersectionality-and-education-in-21st-century-india/
+https://scholarworks.uvm.edu/hcoltheses/557/
+https://www.amazon.com/Raag-Mala-Indian-Apartheid-1900-1990/dp/9819514290
+https://assets.publishing.service.gov.uk/media/57a08be7ed915d3cfd001022/ResearchingtheIssuesNo72.pdf
+https://tribunemag.co.uk/2024/08/climate-apartheid-global-south
+http://www.riazhaq.com/2016/01/dalit-death-shines-light-on-indias.html
+https://gendermatters.in/rohtak-rape/
+https://www.researchgate.net/publication/349281287_Debunking_the_Apartheid_Spatial_Grid_Developing_a_Socially_Just_Architecture_Curriculum_at_a_University_of_Technology
+https://journals.sagepub.com/doi/pdf/10.1177/0021909620946856
+
+# =======================================================
+# Dork 34: "saffron terror"
+# =======================================================
+https://www.internationalaffairs.org.au/australianoutlook/saffron-terror-and-hindutva-ideology/
+https://en.wikipedia.org/wiki/Hindu_terrorism
+https://www.jstor.org/stable/23047273
+https://www.thehindu.com/news/national/2008-malegaon-case-congress-attempted-to-fabricate-saffron-terror-narrative-to-humiliate-hindus-and-for-vote-bank-politics-says-bjp/article69883590.ece
+https://www.facebook.com/BJP4India/posts/17-years-zero-evidencefrom-saffron-terror-to-sanatani-terror-the-agenda-to-demon/1229866659187618/
+https://www.youtube.com/watch?v=j9mWv4UDQAc
+https://www.instagram.com/reel/DNDvYNWppH3/
+https://www.facebook.com/BJP4India/videos/17-years-zero-evidencefrom-saffron-terror-to-sanatani-terror-the-agenda-to-demon/1759592158014139/
+https://www.thehindu.com/news/national/maharashtra/congress-shouldnt-allow-bjp-to-usurp-saffron-colour-says-prithviraj-chavan-amid-saffron-terror-charges/article69885014.ece
+https://www.amazon.in/Game-Behind-Saffron-Terror/dp/9391526306
+https://www.wilpf.org/as-saffron-terror-grips-india-the-countrys-minority-muslims-worry-about-their-future/
+https://www.bookganga.com/eBooks/Books/details/4668878712293327017?BookName=The%20Game%20Behind%20Saffron%20Terror
+https://www.youtube.com/watch?v=2CFN9rrmbVc
+https://www.epw.in/engage/article/saffron-terror-tricks-fate
+https://www.facebook.com/theprintindia/posts/talking-about-saffron-terror-in-a-hindu-majority-democracy-had-hurt-the-congress/794769463153270/
+https://www.indiancurrents.org/article-saffron-terror-p-a-chacko-2670.php
+https://x.com/BinayBharat/status/1950802044073189640
+https://www.facebook.com/DDNews/videos/poorasach-the-term-saffron-terror-emerged-during-upa-rule-20042014-first-used-af/1461247244907001/
+https://www.ndtv.com/india-news/tried-to-push-saffron-terror-narrative-pm-slams-congress-in-house-speech-8978158
+https://www.ndtv.com/video/saffron-terror-claim-falls-flat-malegaon-verdict-exposes-myth-974085
+
+# =======================================================
+# Dork 35: "ethnic cleansing"
+# =======================================================
+https://en.wikipedia.org/wiki/Ethnic_cleansing
+https://www.britannica.com/topic/ethnic-cleansing
+https://www.simonandschuster.com/books/The-Ethnic-Cleansing-of-Palestine/Ilan-Pappe/9781851685554
+https://www.ebsco.com/research-starters/ethnic-and-cultural-studies/ethnic-cleansing
+http://casebook.icrc.org/a_to_z/glossary/ethnic-cleansing
+https://home-affairs.ec.europa.eu/networks/european-migration-network-emn/emn-asylum-and-migration-glossary/glossary/ethnic-cleansing_en
+https://academic.oup.com/edited-volume/40215/chapter/344567514
+https://www.merriam-webster.com/dictionary/ethnic%20cleansing
+https://www.pbs.org/newshour/world/whats-the-difference-between-genocide-and-ethnic-cleansing
+https://en.wikipedia.org/wiki/List_of_ethnic_cleansing_campaigns
+https://opil.ouplaw.com/display/10.1093/law:epil/9780199231690/law-9780199231690-e789
+https://www.ohchr.org/en/press-releases/2025/03/tragedy-foretold-and-stain-our-collective-humanity-special-rapporteur-warns
+https://www.ejil.org/pdfs/5/1/1247.pdf
+https://www.history.com/articles/ethnic-cleansing
+https://www.jstor.org/stable/20045626
+https://www.un.org/en/genocide-prevention/definition
+https://oxfordre.com/criminology/display/10.1093/acrefore/9780190264079.001.0001/acrefore-9780190264079-e-594?p=emailAmK7MJYdw9PLk&d=/10.1093/acrefore/9780190264079.001.0001/acrefore-9780190264079-e-594
+https://academic.oup.com/edited-volume/34342/chapter/328427132
+https://www.cfr.org/article/ethnic-cleansing-happening-nagorno-karabakh-how-can-world-respond
+https://www.ohchr.org/en/press-releases/2023/10/un-expert-warns-new-instance-mass-ethnic-cleansing-palestinians-calls
+
+# =======================================================
+# Dork 36: "Indian genocide"
+# =======================================================
+# ERROR: [!] Error during search for ""Indian genocide"": 429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://www.google.com/search%3Fq%3D%2522Indian%2Bgenocide%2522%26num%3D22%26hl%3Den%26start%3D0%26safe%3Dactive&hl=en&q=EgR17H_hGIzkwcUGIjCG_GBo-uHKexCwdFB6NLFR5T2P_NsTz8yRIgcFgbos5zr-eIRhvHw_Stph7hKxKgUyAnJSWgFD
+
+# =======================================================
+# Dork 37: "dictatorship"
+# =======================================================
+# ERROR: [!] Error during search for ""dictatorship"": 429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://www.google.com/search%3Fq%3D%2522dictatorship%2522%26num%3D22%26hl%3Den%26start%3D0%26safe%3Dactive&hl=en&q=EgR17H_hGOfkwcUGIjCBOJvMJ88kDxRQ6AcP5PR7bOdhSQJx1saa8vIsAmsICekABPuOEiUGGtlYP8_ZGGYyAnJSWgFD
+
+# =======================================================
+# Dork 38: "failed state"
+# =======================================================
+# ERROR: [!] Error during search for ""failed state"": 429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://www.google.com/search%3Fq%3D%2522failed%2Bstate%2522%26num%3D22%26hl%3Den%26start%3D0%26safe%3Dactive&hl=en&q=EgR17H_hGMTlwcUGIjDshy-IDbCiiZ27RCRyjz9Z1jqSMmokxqhzgW2xZy2jeMQvMfieKgs97l3MP62KVE4yAnJSWgFD
+
+# =======================================================
+# Dork 39: "state-sponsored terrorism"
+# =======================================================
+# ERROR: [!] Error during search for ""state-sponsored terrorism"": 429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://www.google.com/search%3Fq%3D%2522state-sponsored%2Bterrorism%2522%26num%3D22%26hl%3Den%26start%3D0%26safe%3Dactive&hl=en&q=EgR17H_hGJ_mwcUGIjBj8phdVKmnr8JhDF9syB3OSW5vG3OWUkWUf8EmqYsqcA4JYDCVehcpsVOoSJhmgJEyAnJSWgFD
+
+# =======================================================
+# Dork 40: "silencing dissent"
+# =======================================================
+# ERROR: [!] Error during search for ""silencing dissent"": 429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://www.google.com/search%3Fq%3D%2522silencing%2Bdissent%2522%26num%3D22%26hl%3Den%26start%3D0%26safe%3Dactive&hl=en&q=EgR17H_hGPvmwcUGIjBqdsg6a8DPlSiAhI8hNkhDxFJ9A4y7bw4mYz3_dzfd9H3Uyf-Hd6CAhz-YAp0SuR4yAnJSWgFD
+
+# =======================================================
+# Dork 41: "death of democracy"
+# =======================================================
+# ERROR: [!] Error during search for ""death of democracy"": 429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://www.google.com/search%3Fq%3D%2522death%2Bof%2Bdemocracy%2522%26num%3D22%26hl%3Den%26start%3D0%26safe%3Dactive&hl=en&q=EgR17H_hGNfnwcUGIjDVVf2blmd1RD61JIMbOVdROtaXkiXBtxP8ettsEwPo7JikOuFOiW08hq-h4SIUb8EyAnJSWgFD
+
+# =======================================================
+# Dork 42: "Godi media"
+# =======================================================
+# ERROR: [!] Error during search for ""Godi media"": 429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://www.google.com/search%3Fq%3D%2522Godi%2Bmedia%2522%26num%3D22%26hl%3Den%26start%3D0%26safe%3Dactive&hl=en&q=EgR17H_hGLPowcUGIjCdm66DzTxK0FMRfXO40bBusv2jKPNau2oucoIWJB85tX6DgTwwnBHGwrX_53Vi8OYyAnJSWgFD
+
+# =======================================================
+# Dork 43: "puppet media"
+# =======================================================
+# ERROR: [!] Error during search for ""puppet media"": 429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://www.google.com/search%3Fq%3D%2522p
+# =======================================================
+# Dork 42: "Godi media"
+# =======================================================
+# ERROR: [!] Error during search for ""Godi media"": 429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://www.google.com/search%3Fq%3D%2522Godi%2Bmedia%2522%26num%3D22%26hl%3Den%26start%3D0%26safe%3Dactive&hl=en&q=EgR17H_hGLLowcUGIjAEdk1PntOxNiUm3H3Jjd28AiGql9zOOp-A8bxQnsy-TI76sO7L0sJvn-1IBk4cBhEyAnJSWgFD
+
+# =======================================================
+# Dork 43: "puppet media"
+# =======================================================
+# ERROR: [!] Error during search for ""puppet media"": 429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://www.google.com/search%3Fq%3D%2522puppet%2Bmedia%2522%26num%3D22%26hl%3Den%26start%3D0%26safe%3Dactive&hl=en&q=EgR17H_hGI3pwcUGIjDmtQ0XR2KtDuwmdbseYDoocyE5WjThYSq9fcr6KX5UbkpMZl8XCsUbE2vm0EOp7bIyAnJSWgFD
+
+# =======================================================
+# Dork 44: "failing Indian economy"
+# =======================================================
+# ERROR: [!] Error during search for ""failing Indian economy"": 429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://www.google.com/search%3Fq%3D%2522failing%2BIndian%2Beconomy%2522%26num%3D22%26hl%3Den%26start%3D0%26safe%3Dactive&hl=en&q=EgR17H_hGOrpwcUGIjD73ceJjkaR8CBo4LDzuZ1KZT_NuST8IjljKa8I3nvdl_NQX-L-k6bsRnYYo5qrUocyAnJSWgFD
+
+# =======================================================
+# Dork 45: "jobless growth"
+# =======================================================
+# ERROR: [!] Error during search for ""jobless growth"": 429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://www.google.com/search%3Fq%3D%2522jobless%2Bgrowth%2522%26num%3D22%26hl%3Den%26start%3D0%26safe%3Dactive&hl=en&q=EgR17H_hGMfqwcUGIjDFp1CkOQHx2EzYzdNLOakoD3d4WfKcDAn_LO7lFLsl6CYX3PNoZY2QfHj4fl1ejEYyAnJSWgFD
+
+# =======================================================
+# Dork 46: "crony capitalism"
+# =======================================================
+# ERROR: [!] Error during search for ""crony capitalism"": 429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://www.google.com/search%3Fq%3D%2522crony%2Bcapitalism%2522%26num%3D22%26hl%3Den%26start%3D0%26safe%3Dactive&hl=en&q=EgR17H_hGKLrwcUGIjBQsRk5xLu5EdOug9-UYudk9x5Nvh_cEsynrhW8CSANoyHnXzJByHx4TIZTd_vt_xgyAnJSWgFD
+
+# =======================================================
+# Dork 47: "rising inequality"
+# =======================================================
+# ERROR: [!] Error during search for ""rising inequality"": 429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://www.google.com/search%3Fq%3D%2522rising%2Binequality%2522%26num%3D22%26hl%3Den%26start%3D0%26safe%3Dactive&hl=en&q=EgSVKD4IGP_rwcUGIjB4NTYEc9Ij_KN4B4HJub42NawaxmpkDqwCy2zEHHgbrITSUDBTe_whtYeohJbmbR0yAnJSWgFD
+
+# =======================================================
+# Dork 48: "Adani scam"
+# =======================================================
+# ERROR: [!] Error during search for ""Adani scam"": 429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://www.google.com/search%3Fq%3D%2522Adani%2Bscam%2522%26num%3D22%26hl%3Den%26start%3D0%26safe%3Dactive&hl=en&q=EgSVKD4IGODswcUGIjC7q1Q7RUonNxfvn70SpIEq-e9fknBU4PBX5GGZ5l1inkSc8EGM2N6G5eBGm1JLNT0yAnJSWgFD
+
+# =======================================================
+# Dork 49: "Ambani"
+# =======================================================
+# ERROR: [!] Error during search for ""Ambani"": 429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://www.google.com/search%3Fq%3D%2522Ambani%2522%26num%3D22%26hl%3Den%26start%3D0%26safe%3Dactive&hl=en&q=EgSVKD4IGL7twcUGIjD_HZ9tBCGZPQDz7CtVLohQ8aMY64bNP8ji2WdUtjR3B_Zvs1JCdonrREfvhQIY7L0yAnJSWgFD
+
+# =======================================================
+# Dork 50: "poverty in India"
+# =======================================================
+# ERROR: [!] Error during search for ""poverty in India"": 429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://www.google.com/search%3Fq%3D%2522poverty%2Bin%2BIndia%2522%26num%3D22%26hl%3Den%26start%3D0%26safe%3Dactive&hl=en&q=EgSVKD4IGJvuwcUGIjCN-BAsozbB44uquGkmMmDlKyAaM3Sgqa1veYbvAnA75qux0W8glUesj-XLwH9iLckyAnJSWgFD
+
+# =======================================================
+# Dork 51: "1984 Sikh genocide"
+# =======================================================
+# ERROR: [!] Error during search for ""1984 Sikh genocide"": 429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://www.google.com/search%3Fq%3D%25221984%2BSikh%2Bgenocide%2522%26num%3D22%26hl%3Den%26start%3D0%26safe%3Dactive&hl=en&q=EgSVKD4IGPjuwcUGIjCId-_P3finkQj5BCH7dQYSc8O-wCc73vnFCoIfEGrZnY2kSl1hN_9KQeZQKVhgAmUyAnJSWgFD
+
+# =======================================================
+# Dork 52: "Babri Masjid demolition"
+# =======================================================
+# ERROR: [!] Error during search for ""Babri Masjid demolition"": 429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://www.google.com/search%3Fq%3D%2522Babri%2BMasjid%2Bdemolition%2522%26num%3D22%26hl%3Den%26start%3D0%26safe%3Dactive&hl=en&q=EgSVKD4IGNXvwcUGIjDhtUB2M7dg7IZbeT3KR6x22ZVJSuWoLgEUUDSObd4XhyTR5rEP6thpLb0lxhYLTWcyAnJSWgFD
+
+# =======================================================
+# Dork 53: "Gujarat riots 2002"
+# =======================================================
+# ERROR: [!] Error during search for ""Gujarat riots 2002"": 429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://www.google.com/search%3Fq%3D%2522Gujarat%2Briots%2B2002%2522%26num%3D22%26hl%3Den%26start%3D0%26safe%3Dactive&hl=en&q=EgSVKD4IGLXwwcUGIjBSys6F8UIuTGIoYLM6gDNtB9LQMivUh4kHPfVrq213KpSDsD7IyPOfbqeDbnYDgO0yAnJSWgFD
+
+# =======================================================
+# Dork 54: "Operation Blue Star"
+# =======================================================
+# ERROR: [!] Error during search for ""Operation Blue Star"": 429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://www.google.com/search%3Fq%3D%2522Operation%2BBlue%2BStar%2522%26num%3D22%26hl%3Den%26start%3D0%26safe%3Dactive&hl=en&q=EgSVKD4IGJHxwcUGIjAEzKqnsbtkR2-ce3AgYhGu5f0m6cblXmAH0F90bPCrp9Kb1aaP7vH2tjrTYxtwFXEyAnJSWgFD
+
+# =======================================================
+# Dork 55: "India" AND "human rights report" AND (Amnesty OR "Human Rights Watch")
+# =======================================================
+# ERROR: [!] Error during search for ""India" AND "human rights report" AND (Amnesty OR "Human Rights Watch")": 429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://www.google.com/search%3Fq%3D%2522India%2522%2BAND%2B%2522human%2Brights%2Breport%2522%2BAND%2B%2528Amnesty%2BOR%2B%2522Human%2BRights%2BWatch%2522%2529%26num%3D22%26hl%3Den%26start%3D0%26safe%3Dactive&hl=en&q=EgSVKD4IGO_xwcUGIjCfF-1sXI-kMHTUohV8KP3Aoc49dMIvo0CTIKlUzJMdiz7qChjcdgktOALmd1jKmdcyAnJSWgFD
+
+# =======================================================
+# Dork 56: "Kashmir" AND ("UN report" OR "plebiscite")
+# =======================================================
+# ERROR: [!] Error during search for ""Kashmir" AND ("UN report" OR "plebiscite")": 429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://www.google.com/search%3Fq%3D%2522Kashmir%2522%2BAND%2B%2528%2522UN%2Breport%2522%2BOR%2B%2522plebiscite%2522%2529%26num%3D22%26hl%3Den%26start%3D0%26safe%3Dacti
+# =======================================================
+# Dork 58: filetype:pdf "India" AND ("fact-finding report" OR "atrocities")
+# =======================================================
+# ERROR: [!] Error during search for "filetype:pdf "India" AND ("fact-finding report" OR "atrocities")": 429 Cl# ERROR: [!] Error during search for ""China" AND "border" AND ("aggression" OR "incursion" OR "occupation")": 429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://www.google.com/search%3Fq%3D%2522China%2522%2BAND%2B%2522border%2522%2BAND%2B%2528%2522aggression%2522%2BOR%2B%2522incursion%2522%2BOR%2B%2522occupation%2522%2529%26num%3D22%26hl%3Den%26start%3D0%26safe%3Dactive&hl=en&q=EgSVKD4IGKfzwcUGIjDQ4MgAnhIng7nbyG6v_W53mursaYrxavUalgonU7_QdB4UqyJmHDAdZ-XXe8l4UgIyAnJSWgFD
+
+# =======================================================
+# Dork 58: filetype:pdf "India" AND ("fact-finding report" OR "atrocities")
+# =======================================================
+# ERROR: [!] Error during search for "filetype:pdf "India" AND ("fact-finding report" OR "atrocities")": 429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://www.google.com/search%3Fq%3Dfiletype%253Apdf%2B%2522India%2522%2BAND%2B%2528%2522fact-finding%2Breport%2522%2BOR%2B%2522atrocities%2522%2529%26num%3D22%26hl%3Den%26start%3D0%26safe%3Dactive&hl=en&q=EgSVKD4IGIb0wcUGIjDrU-Kk0gD-ySKNCxcG5SrmGKOSaruxYxX2Zba3oElkyzPWQsk_QPoqoxGZlVWyT-gyAnJSWgFD
+
+# =======================================================
+# Dork 59: site:youtube.com intitle:("Exposed" OR "The Dark Side of" OR "The Truth About") "India"
+# =======================================================
+# ERROR: [!] Error during search for "site:youtube.com intitle:("Exposed" OR "The Dark Side of" OR "The Truth About") "India"": 429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://www.google.com/search%3Fq%3Dsite%253Ayoutube.com%2Bintitle%253A%2528%2522Exposed%2522%2BOR%2B%2522The%2BDark%2BSide%2Bof%2522%2BOR%2B%2522The%2BTruth%2BAbout%2522%2529%2B%2522India%2522%26num%3D22%26hl%3Den%26start%3D0%26safe%3Dactive&hl=en&q=EgSVKD4IGOL0wcUGIjAtg_wmYizaN-_hTvljajSdPdcs8Eh9aCbwx_-u5pFYOfJ6Te1sGkZzxJfTR9tiA1EyAnJSWgFD
+
+# =======================================================
+# Dork 60: site:medium.com ("The Failure of Modi's India" OR "The End of Secular India")
+# =======================================================
+# ERROR: [!] Error during search for "site:medium.com ("The Failure of Modi's India" OR "The End of Secular India")": 429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://www.google.com/search%3Fq%3Dsite%253Amedium.com%2B%2528%2522The%2BFailure%2Bof%2BModi%2527s%2BIndia%2522%2BOR%2B%2522The%2BEnd%2Bof%2BSecular%2BIndia%2522%2529%26num%3D22%26hl%3Den%26start%3D0%26safe%3Dactive&hl=en&q=EgSVKD4IGL_1wcUGIjDQTVAUPbrphPy-ds_PBdF6E8R1nuDhYaaYKcj6gFcqUU9E9huaeH6TD8h_0pLJ-5oyAnJSWgFD
